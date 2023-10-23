@@ -1,0 +1,9905 @@
+[
+	[
+		{
+			"turn": 1,
+			"text": "How's it going?  How are you feeling?",
+			"speaker": "F",
+			"emotion": 1
+		},
+		{
+			"turn": 2,
+			"text": "I ah--",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 3,
+			"text": "alright.",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 4,
+			"text": "Hanging in there?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				3
+			]
+		},
+		{
+			"turn": 5,
+			"text": "Yeah.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 6,
+			"text": "So sad.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				5
+			]
+		},
+		{
+			"turn": 7,
+			"text": "It just feels like I was talking to him yesterday.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				7
+			]
+		},
+		{
+			"turn": 8,
+			"text": "Yeah.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				7
+			]
+		},
+		{
+			"turn": 9,
+			"text": "You guys were real close huh?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				7
+			]
+		},
+		{
+			"turn": 10,
+			"text": "He was my only friend growing up.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				10,
+				9
+			]
+		},
+		{
+			"turn": 11,
+			"text": "no one else would talk to me but he would.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				11,
+				10
+			]
+		},
+		{
+			"turn": 12,
+			"text": "He was supposed to be the best man at my wedding.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				12,
+				10,
+				9
+			]
+		},
+		{
+			"turn": 13,
+			"text": "I'm so sorry.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				10,
+				12,
+				11
+			]
+		},
+		{
+			"turn": 14,
+			"text": "Yeah.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"turn": 15,
+			"text": "You know I was always the one to tell him to be more wild you know?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				15
+			]
+		},
+		{
+			"turn": 16,
+			"text": "And he just took it overboard.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				16,
+				15
+			]
+		},
+		{
+			"turn": 17,
+			"text": "What happened?  What went wrong?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				16
+			]
+		},
+		{
+			"turn": 18,
+			"text": "You know a stupid case of drunk driving it's just...",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 19,
+			"text": "and the worst part of it is that he was in the car with his girlfriend,",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				19,
+				18
+			]
+		},
+		{
+			"turn": 20,
+			"text": "his girlfriend got killed too.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				19,
+				20,
+				18
+			]
+		},
+		{
+			"turn": 21,
+			"text": "Oh man.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				19,
+				20,
+				18
+			]
+		},
+		{
+			"turn": 22,
+			"text": "And the car that he hit was his family.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				22
+			]
+		},
+		{
+			"turn": 23,
+			"text": "How are they?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				22
+			]
+		},
+		{
+			"turn": 24,
+			"text": "The mother and father died--",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				24
+			]
+		},
+		{
+			"turn": 25,
+			"text": "and the kids are paralyzed in a coma right now.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				25,
+				24
+			]
+		},
+		{
+			"turn": 26,
+			"text": "and just going to the funeral it's-",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				25,
+				24,
+				22
+			]
+		},
+		{
+			"turn": 27,
+			"text": "-do I miss him or do I hate him, you know?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				25,
+				24,
+				22
+			]
+		},
+		{
+			"turn": 28,
+			"text": "Yeah.  Like I mean if you need anyone to talk to or anything I'm here for you okay?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				25,
+				24,
+				22
+			]
+		},
+		{
+			"turn": 29,
+			"text": "We're all here for you.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				25,
+				24,
+				22
+			]
+		},
+		{
+			"turn": 30,
+			"text": "I was supposed to see him last summer",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				30
+			]
+		},
+		{
+			"turn": 31,
+			"text": "then I got busy with work and stuff and three years go by",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				30
+			]
+		},
+		{
+			"turn": 32,
+			"text": "and then something like this happens you know?",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 33,
+			"text": "I mean I haven't even talked to him on the phone for the past three months.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				33
+			]
+		},
+		{
+			"turn": 34,
+			"text": "He's supposed to be my best friend.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				33
+			]
+		},
+		{
+			"turn": 35,
+			"text": "I know.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				30
+			]
+		},
+		{
+			"turn": 36,
+			"text": "just things happen in life and you just...there's just no explanation you know?  We just don't...",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				30
+			]
+		},
+		{
+			"turn": 37,
+			"text": "It's so fucked up.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				37,
+				30
+			]
+		},
+		{
+			"turn": 38,
+			"text": "Yeah.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				37
+			]
+		},
+		{
+			"turn": 39,
+			"text": "I'm so sorry.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				37
+			]
+		},
+		{
+			"turn": 40,
+			"text": "Why is that?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				36
+			]
+		},
+		{
+			"turn": 41,
+			"text": "He was studying to be a doctor.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				41
+			]
+		},
+		{
+			"turn": 42,
+			"text": "I mean he was...he wanted to help people in poor countries, that is his goal.  He didn't care about the money.  He just wanted to go and help people.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				42,
+				41
+			]
+		},
+		{
+			"turn": 43,
+			"text": "What the...what am I doing?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				42,
+				41
+			]
+		},
+		{
+			"turn": 44,
+			"text": "Working for corporate America?  Wow.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				42,
+				41
+			]
+		},
+		{
+			"turn": 45,
+			"text": "He actually wanted to do something.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				45,
+				42,
+				41
+			]
+		},
+		{
+			"turn": 46,
+			"text": "Well now you can follow his footsteps, you know?  Carry out what he wanted to do.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				42
+			]
+		},
+		{
+			"turn": 47,
+			"text": "I can't do that.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				46
+			]
+		},
+		{
+			"turn": 48,
+			"text": "Well sure you could.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				43
+			]
+		},
+		{
+			"turn": 49,
+			"text": "You should've met him.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				49
+			]
+		},
+		{
+			"turn": 50,
+			"text": "He is the greatest...everyone liked him.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				50
+			]
+		},
+		{
+			"turn": 51,
+			"text": "Yeah.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				37
+			]
+		},
+		{
+			"turn": 52,
+			"text": "I would've loved to.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				37
+			]
+		},
+		{
+			"turn": 53,
+			"text": "Now I can't.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				53
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "You're the only one I know that still loves his parents.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				1
+			]
+		},
+		{
+			"turn": 2,
+			"text": "Yeah. I know. It went out of style, didn't it?",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				1
+			]
+		},
+		{
+			"turn": 3,
+			"text": "No, it's all right. There's nothing wrong in that, you know.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				1,
+				2
+			]
+		},
+		{
+			"turn": 4,
+			"text": "It's really lovely here. The air is sweet.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 5,
+			"text": "You're not sorry you came?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 6,
+			"text": "No. I'm not sorry. It's-",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				5
+			]
+		},
+		{
+			"turn": 7,
+			"text": "Well, for one thing, your mother so much has told me to go. [LAUGHTER].",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				7,
+				5
+			]
+		},
+		{
+			"turn": 8,
+			"text": "Well-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 9,
+			"text": "What?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 10,
+			"text": "Well, you've been embarrassed ever since I came.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				10
+			]
+		},
+		{
+			"turn": 11,
+			"text": "Oh look, um, well, the thing is, I was planning on, planning on sort of sneaking up on you over a week or so, and they-they take it for granted we're all set.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				11
+			]
+		},
+		{
+			"turn": 12,
+			"text": "I, I guess that's why I asked you to come.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				11
+			]
+		},
+		{
+			"turn": 13,
+			"text": "Well, I mean,",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				11
+			]
+		},
+		{
+			"turn": 14,
+			"text": "Oh, Annie.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				11
+			]
+		},
+		{
+			"turn": 15,
+			"text": "from her opinion, why else would I come here?",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				11,
+				12
+			]
+		},
+		{
+			"turn": 16,
+			"text": "Annie, I love you.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				16
+			]
+		},
+		{
+			"turn": 17,
+			"text": "I love you a great deal.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				17
+			]
+		},
+		{
+			"turn": 18,
+			"text": "I-I love you. I have no imagination. That's all I know how to tell it.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				18
+			]
+		},
+		{
+			"turn": 19,
+			"text": "Well, I guess that's why I came.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				18
+			]
+		},
+		{
+			"turn": 20,
+			"text": "I'm embarrassing you. I didn't want to tell you it here. I wanted to go somewhere that would be brand-new to each other. It feels wrong here, don't you? This yard and this chair.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				18,
+				17,
+				16
+			]
+		},
+		{
+			"turn": 21,
+			"text": "I don't want to win you from anybody. I want you to be ready for me.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				18,
+				17,
+				16
+			]
+		},
+		{
+			"turn": 22,
+			"text": "I've been ready for a long, long time.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				21
+			]
+		},
+		{
+			"turn": 23,
+			"text": "You felt something that far back?",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				22
+			]
+		},
+		{
+			"turn": 24,
+			"text": "Every day since.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				22,
+				21
+			]
+		},
+		{
+			"turn": 25,
+			"text": "Why didn't you let me know?",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				24,
+				22
+			]
+		},
+		{
+			"turn": 26,
+			"text": "Give me a kiss, Annie.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				24,
+				22
+			]
+		},
+		{
+			"turn": 27,
+			"text": "Give me-",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				24,
+				22
+			]
+		},
+		{
+			"turn": 28,
+			"text": "I don't know if I ever can forgive you for that. Why'd you wait so long? I sat in my room wondering if I was crazy for thinking about you.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				28,
+				26,
+				22
+			]
+		},
+		{
+			"turn": 29,
+			"text": "We're going to live now. I'm going to make you so happy.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				28
+			]
+		},
+		{
+			"turn": 30,
+			"text": "I kissed you.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				29,
+				28,
+				26
+			]
+		},
+		{
+			"turn": 31,
+			"text": "Like Larry's brother. Do it like you, Chris.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				29
+			]
+		},
+		{
+			"turn": 32,
+			"text": "Let's drive somewhere. I want to be alone with you.",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 33,
+			"text": "No. What is it? Is it your mother?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				33,
+				31
+			]
+		},
+		{
+			"turn": 34,
+			"text": "No, no, no, no. Nothing like that.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 35,
+			"text": "Well then tell me what's wrong. I mean, even in your letters there's something ashamed.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				35,
+				33
+			]
+		},
+		{
+			"turn": 36,
+			"text": "Yeah. I guess there is. I guess I was, but uh- it's going from me now.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				35
+			]
+		},
+		{
+			"turn": 37,
+			"text": "You should tell me.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				36,
+				35
+			]
+		},
+		{
+			"turn": 38,
+			"text": "I don't know where to start.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				36,
+				35
+			]
+		},
+		{
+			"turn": 39,
+			"text": "But, Chris, it wouldn't work like this.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				35
+			]
+		},
+		{
+			"turn": 40,
+			"text": "You know when I went overseas. I said I was in command of a company.",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 41,
+			"text": "Yeah, sure.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				35
+			]
+		},
+		{
+			"turn": 42,
+			"text": "Well, I lost them.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				42
+			]
+		},
+		{
+			"turn": 43,
+			"text": "How many?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				42
+			]
+		},
+		{
+			"turn": 44,
+			"text": "Just about all.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				42
+			]
+		},
+		{
+			"turn": 45,
+			"text": "Geez.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				44
+			]
+		},
+		{
+			"turn": 46,
+			"text": "It takes a little while to toss that off. Because they weren't just men.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				46,
+				42
+			]
+		},
+		{
+			"turn": 47,
+			"text": "For instance, one time, it had to have been raining several days. There was this one kid, he came up to me and he gave me his last pair of dry socks. Put them in my pocket.",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 48,
+			"text": "I mean, that's-that's only a little thing, but that's the kind of guys I had. They didn't just die. They killed themselves for each other. And I mean that exactly. A little more selfish and they'd still be here today.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				48
+			]
+		},
+		{
+			"turn": 49,
+			"text": "And I, and I thought something watching them go down.",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 50,
+			"text": "Everything was being destroyed, see, but there was one new thing that was being created. A kind of responsibility, man for man. You understand me?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				50
+			]
+		},
+		{
+			"turn": 51,
+			"text": "And to show that-to bring that onto the earth like some sort of monument standing right behind us where everyone could feel it and it would make a difference to him.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				50,
+				49
+			]
+		},
+		{
+			"turn": 52,
+			"text": "And I came back here and it was incredible. There was no meaning in that here. The whole thing to them was a bus accident.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				52,
+				50,
+				49
+			]
+		},
+		{
+			"turn": 53,
+			"text": "And I went to work with dad and that rat race again. And I felt what you said-ashamed somehow. Because nobody was changed at all. It seemed to make a sucker out of a lot of guys.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				53
+			]
+		},
+		{
+			"turn": 54,
+			"text": "And I felt wrong to be alive. To drive the car, to see the new checkbook, to see the new refrigerator. I mean, you can take those things out of the war. But you got to know that when you drive that car that that came out of the love a man can have for another man. And you got to be a little bit better because of that.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				54,
+				53
+			]
+		},
+		{
+			"turn": 55,
+			"text": "Otherwise, what you have here is loot; and there's blood on it.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				54,
+				53
+			]
+		},
+		{
+			"turn": 56,
+			"text": "And I didn't want to take any of it.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				55
+			]
+		},
+		{
+			"turn": 57,
+			"text": "And I guess that included you.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				55
+			]
+		},
+		{
+			"turn": 58,
+			"text": "And you still feel that way?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				56,
+				55
+			]
+		},
+		{
+			"turn": 59,
+			"text": "Because you can't feel that way, never again, Chris. You hear me? Never. I mean, the money and me too.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				59,
+				57,
+				56
+			]
+		},
+		{
+			"turn": 60,
+			"text": "Annie,",
+			"speaker": "M",
+			"emotion": 2
+		},
+		{
+			"turn": 61,
+			"text": "Annie, I'm going to make a fortune for you.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				61
+			]
+		},
+		{
+			"turn": 62,
+			"text": "What am I going to do with a fortune?",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				61
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "Look sir, I've been waiting for about an hour and my luggage still hasn't come. What's going on?",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				1
+			]
+		},
+		{
+			"turn": 2,
+			"text": "I'm sorry, Mrs. Rosenkrantz, but uh- I don't know what to tell you.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				1,
+				2
+			]
+		},
+		{
+			"turn": 3,
+			"text": "What do you mean, you don't know what to tell me? I have two luggage that I've been coming--they're coming--from France and I need them here. I'm home now. I need to go start working.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				1,
+				3
+			]
+		},
+		{
+			"turn": 4,
+			"text": "Did you- Did you check with the lost and found?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				3,
+				4
+			]
+		},
+		{
+			"turn": 5,
+			"text": "Where? I don't know. The lost and found. What do you mean, lost and found?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				5
+			]
+		},
+		{
+			"turn": 6,
+			"text": "I had my luggage transferred here from Paris to L.A. and now I'm here and I need to be working and I have all my stuff in there.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				6
+			]
+		},
+		{
+			"turn": 7,
+			"text": "Maybe it got lost. Did you think about that, mom?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				7
+			]
+		},
+		{
+			"turn": 8,
+			"text": "Well, that's what I'm asking you. What--I don't know what happened to it.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				7,
+				8
+			]
+		},
+		{
+			"turn": 9,
+			"text": "Oh, not--we didn't lose it; maybe the airport lost it. Maybe someone stole it.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 10,
+			"text": "Wait, sir. You're- You're completely not--what do you mean, stole it? How can they just steal it from an airplane? It was up in the air?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				10,
+				9
+			]
+		},
+		{
+			"turn": 11,
+			"text": "No, I mean, maybe in the little--going around thingy thing where bopper stole it from there.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				10
+			]
+		},
+		{
+			"turn": 12,
+			"text": "Okay. All I know is that I am supposed to have my language here right now. Right now. And it's not there. And you're supposed to help me because you work at the airport. So give me my luggage or tell me where the hell it is.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				11,
+				12
+			]
+		},
+		{
+			"turn": 13,
+			"text": "Okay. What can we do is we can get your name and information and if it shows up we can send it to you so-- Wherever you stay",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				12
+			]
+		},
+		{
+			"turn": 14,
+			"text": "What do you mean, if it shows up? No, I need it now. I have my keys, I have my wallet, I have my money. I have thousands and thousands of dollars worth of stuff in there.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				13
+			]
+		},
+		{
+			"turn": 15,
+			"text": "Not to mention I have my work in there.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				14,
+				15
+			]
+		},
+		{
+			"turn": 16,
+			"text": "Well, I'll have you fill out some paperwork and see if you can get started on something.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				16,
+				15
+			]
+		},
+		{
+			"turn": 17,
+			"text": "And what if- what if it is lost? Well, what are you guys going to do for me?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				16,
+				17
+			]
+		},
+		{
+			"turn": 18,
+			"text": "and when you sign your ticket we could replace about fifteen percent of what's in the bag.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 19,
+			"text": "Fifteen percent?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				18
+			]
+		},
+		{
+			"turn": 20,
+			"text": "Up to a limit of twenty five dollars.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 21,
+			"text": "What? There- There's hundreds of thousands of dollars worth of stuff in there.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				21,
+				20
+			]
+		},
+		{
+			"turn": 22,
+			"text": "Whoa, maybe you should uh- have thought of a better way to send it than just in a bag, hmm? Did you think about that?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				21,
+				22
+			]
+		},
+		{
+			"turn": 23,
+			"text": "No, no, no. You don't understand. This is--these are my belongings in the luggage. And I went to Paris.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				21,
+				23
+			]
+		},
+		{
+			"turn": 24,
+			"text": "Sir, why are you laughing at me? This isn't funny.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				24
+			]
+		},
+		{
+			"turn": 25,
+			"text": "I think that's kind of stupid, that you put a hundred thousands of dollars in the bag.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 26,
+			"text": "Did you lock- Did you lock it even? You probably didn't even lock it.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 27,
+			"text": "No, they said I couldn't lock it.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 28,
+			"text": "Give me--I'm going to talk to your supervisor. Give me your supervisor. I want to talk to your supervisor right now.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 29,
+			"text": "Okay, let me get him.Oh, guess who the supervisor is? It's me.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 30,
+			"text": "What, do you have questions?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 31,
+			"text": "Well, get- I want the C.E.O. then.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				30,
+				29
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "Oh, yeah? Have you gotten letters yet?",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				1
+			]
+		},
+		{
+			"turn": 2,
+			"text": "Um, I don't know, where?",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				1
+			]
+		},
+		{
+			"turn": 3,
+			"text": "U.S.C..",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				3
+			]
+		},
+		{
+			"turn": 4,
+			"text": "Oh my Gosh, that's so cool.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				3,
+				4
+			]
+		},
+		{
+			"turn": 5,
+			"text": "[LAUGHTER] It's gotta be it, like-",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				3
+			]
+		},
+		{
+			"turn": 6,
+			"text": "Oh my Gosh, that's so cool.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				6
+			]
+		},
+		{
+			"turn": 7,
+			"text": "but big packet, big packet is nice",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				3,
+				7
+			]
+		},
+		{
+			"turn": 8,
+			"text": "big packet is gotta be the real thing. yeah",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				8
+			]
+		},
+		{
+			"turn": 9,
+			"text": "So it's like, yes, rip it open and there it is big - oh, yes.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 10,
+			"text": "Oh my Gosh. I thought there was like, maybe going to be some, like I don't know if you are going to get in or not, so I'm really glad that you did.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				10
+			]
+		},
+		{
+			"turn": 11,
+			"text": "That's so cool.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				10
+			]
+		},
+		{
+			"turn": 12,
+			"text": "Yeah. I know, I know.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				11,
+				10
+			]
+		},
+		{
+			"turn": 13,
+			"text": "it was you know I wasn't too sure I mean you know it was kind of last minute for like the application",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				13
+			]
+		},
+		{
+			"turn": 14,
+			"text": "and everything like but",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				13
+			]
+		},
+		{
+			"turn": 15,
+			"text": "Yeah, totally.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				13
+			]
+		},
+		{
+			"turn": 16,
+			"text": "it was good, yeah. I mean-",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				16,
+				13
+			]
+		},
+		{
+			"turn": 17,
+			"text": "So you're going to be right here in Los Angeles; that is so cool.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				17
+			]
+		},
+		{
+			"turn": 18,
+			"text": "I'm looking forward to it.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				18,
+				17
+			]
+		},
+		{
+			"turn": 19,
+			"text": "So can we hang out?",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				19,
+				17
+			]
+		},
+		{
+			"turn": 20,
+			"text": "Hey, yes, you know that's - that's what I'm coming for.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				19,
+				20
+			]
+		},
+		{
+			"turn": 21,
+			"text": "Yay.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				20
+			]
+		},
+		{
+			"turn": 22,
+			"text": "You're half the reason I'm going. [LAUGHTER]",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				22
+			]
+		},
+		{
+			"turn": 23,
+			"text": "Oh, yay. Thank you. [LAUGHTER].",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				22
+			]
+		},
+		{
+			"turn": 24,
+			"text": "No but that's an awesome school. That's so cool.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				24
+			]
+		},
+		{
+			"turn": 25,
+			"text": "Oh, totally totally.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				24
+			]
+		},
+		{
+			"turn": 26,
+			"text": "You know what I mean, I bet the home games, are just like nuts you know.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 27,
+			"text": "you get to like be a part of that.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				27
+			]
+		},
+		{
+			"turn": 28,
+			"text": "Like you get to be a part of that. Like the, like the- Like a cult.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				28
+			]
+		},
+		{
+			"turn": 29,
+			"text": "What?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				28
+			]
+		},
+		{
+			"turn": 30,
+			"text": "[LAUGHTER] I know. I mean part of-",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				28
+			]
+		},
+		{
+			"turn": 31,
+			"text": "[LAUGHTER] like a- like a- [LAUGHTER] No, but I mean like everywhere you go people know who you are.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				31
+			]
+		},
+		{
+			"turn": 32,
+			"text": "Yeah. Right. A cult. I'm looking forward to being in the cult.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				32,
+				31
+			]
+		},
+		{
+			"turn": 33,
+			"text": "Right I know, like you, it won't hurt, I mean national champions last year, wow, you know",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				32,
+				33
+			]
+		},
+		{
+			"turn": 34,
+			"text": "Maybe we'll do it again this year.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				33,
+				34
+			]
+		},
+		{
+			"turn": 35,
+			"text": "So you know what you are going to do there?",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				35
+			]
+		},
+		{
+			"turn": 36,
+			"text": "What's that? ahh Well, you know I'm I'm thinking um I'm leaning towards like communications",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				36
+			]
+		},
+		{
+			"turn": 37,
+			"text": "I-I don't know. Kind of a broad,",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				37,
+				36
+			]
+		},
+		{
+			"turn": 38,
+			"text": "Okay. They have a lot of good schools, right?",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				38
+			]
+		},
+		{
+			"turn": 39,
+			"text": "yeah, I mean a lot-a lot  of good stuff oh, yeah, I mean it's- it's just a really good school; so really, whatever I pick I can't go wrong. I mean I'm just",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				39
+			]
+		},
+		{
+			"turn": 40,
+			"text": "I'm looking forward to getting there. I mean, God, the campus is cool, you know it's like all just very confined I mean just you know it's a college campus you know it's like",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				39,
+				40
+			]
+		},
+		{
+			"turn": 41,
+			"text": "Yes, it's intimate.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				41,
+				40
+			]
+		},
+		{
+			"turn": 42,
+			"text": "I know. It's so cool.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				40
+			]
+		},
+		{
+			"turn": 43,
+			"text": "Fair for you, Wow, oh my Gosh.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				43
+			]
+		},
+		{
+			"turn": 44,
+			"text": "I mean you got to - you got to show me the ropes 'cause I've never been there before so I mean you know your way around already and- [LAUGHTER]",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				44
+			]
+		},
+		{
+			"turn": 45,
+			"text": "I will do the best I can.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				44,
+				45
+			]
+		},
+		{
+			"turn": 46,
+			"text": "Well, there are all kinds of awesome secrets so you'll really enjoy it. It's really great. I'm so glad.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				44,
+				46
+			]
+		},
+		{
+			"turn": 47,
+			"text": "Oh, alright.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				46
+			]
+		},
+		{
+			"turn": 48,
+			"text": "I'm-I'm looking forward to that. [BREATHING] man, So yeah, I think I'm going to come out a little early so I mean I'll give you a call and we'll definitely-",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				48
+			]
+		},
+		{
+			"turn": 49,
+			"text": "Yay",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				48
+			]
+		},
+		{
+			"turn": 50,
+			"text": "Okay. Yes, totally come visit",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				48
+			]
+		},
+		{
+			"turn": 51,
+			"text": "and we'll explore and you going to have such a good time, you're going to fit in so well, it's going to be awesome",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				51,
+				50
+			]
+		},
+		{
+			"turn": 52,
+			"text": "[LAUGHTER] Thanks, yes, thanks, yes That'll be cool.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				51,
+				52
+			]
+		},
+		{
+			"turn": 53,
+			"text": "So Congratulations. That's awesome.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				53
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "That's helpful.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 2,
+			"text": "I just don't think I can do this anymore.  It's been a really long time and it's not like I'm not trying.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 3,
+			"text": "Well I guess you're not trying hard enough.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 4,
+			"text": "I am try-  it's been three years",
+			"speaker": "F",
+			"emotion": 5
+		},
+		{
+			"turn": 5,
+			"text": "and I have gone everywhere I can think of.  I have given resumes.  I have done interviews.  I've tried to pull in favors.  I've asked everybody I know for help.  I don't know what else to do.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				5
+			]
+		},
+		{
+			"turn": 6,
+			"text": "Just, I don't know, maybe you're not smart enough.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 7,
+			"text": "I mean I don't know just go out and keep trying. Just-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 8,
+			"text": "I don't know.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 9,
+			"text": "Okay but I've been trying for three years.  Three years and I haven't gotten a bite much less actually gotten hired, and I am smart enough.  Thank you very much.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 10,
+			"text": "Hey.  Look, I mean- you know.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 11,
+			"text": "I'm really good at what I do.  I just don't know how to make someone else see that.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				11,
+				9
+			]
+		},
+		{
+			"turn": 12,
+			"text": "Look bananas don't grow overnight.  Okay.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 13,
+			"text": "What?  Who says that?  Bananas don't grow overnight.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				11,
+				9,
+				13
+			]
+		},
+		{
+			"turn": 14,
+			"text": "You need that- Time-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 15,
+			"text": "You know- You need to just- you need, I mean it takes time to get a good job.  I mean-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 16,
+			"text": "Okay.  I think three years is a little excessive.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				16,
+				13
+			]
+		},
+		{
+			"turn": 17,
+			"text": "look at me, like, you know. I mean, Hey, I- it took me, you know, like six years to get where I am now. I mean-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 18,
+			"text": "Yeah but you weren't unemployed for three years trying to find any job.  I mean at this point I'm going to go drive a cab or, you know, work at the gas station or something.  I don't even- I don't know what to do anymore.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				18,
+				17
+			]
+		},
+		{
+			"turn": 19,
+			"text": "I don't know.  I mean whatever.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				18,
+				17
+			]
+		},
+		{
+			"turn": 20,
+			"text": "Nothing I'm trying seems to work. Just-",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				18
+			]
+		},
+		{
+			"turn": 21,
+			"text": "Clearly everything you're doing is completely wrong.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				21,
+				18
+			]
+		},
+		{
+			"turn": 22,
+			"text": "I mean, well I mean i don't know; it doesn't really affect my life, you know.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 23,
+			"text": "Well don't you understand that this is-",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				22
+			]
+		},
+		{
+			"turn": 24,
+			"text": "Yeah, I understand, but-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 25,
+			"text": "I don't even- I mean you have to have some kind of an idea.  Something you could possibly throw out there that I could maybe use.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				25,
+				22
+			]
+		},
+		{
+			"turn": 26,
+			"text": "I don't know. Well like, I don't know. I mean-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 27,
+			"text": "I mean it's not like this is an",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				25
+			]
+		},
+		{
+			"turn": 28,
+			"text": "extreme request.  I want to find a job.  Everybody wants to find a job. It's really not that.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				25,
+				28
+			]
+		},
+		{
+			"turn": 29,
+			"text": "Clearly- cle- clearly you're doing something wrong.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 30,
+			"text": "Okay. Okay, Fine.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				29,
+				28
+			]
+		},
+		{
+			"turn": 31,
+			"text": "'Cause if you've been looking, you've been applying for jobs for three years. And-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 32,
+			"text": "Okey So I'm doing something wrong.  What am I doing wrong?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				32,
+				29
+			]
+		},
+		{
+			"turn": 33,
+			"text": "I'm really good at what I do.  I'm smart.  I'm trained.  I have the education.  I'm talented.  I cannot-",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				32,
+				33,
+				29
+			]
+		},
+		{
+			"turn": 34,
+			"text": "Are you- I mean do you like get dressed up and everything when you go to the job interview?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 35,
+			"text": "Well yeah I mean I like take a shower and stuff.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				32,
+				33
+			]
+		},
+		{
+			"turn": 36,
+			"text": "And you like- you know, you shave your legs and everything?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 37,
+			"text": "[LAUGHTER] Yeah.  Usually.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				34
+			]
+		},
+		{
+			"turn": 38,
+			"text": "and I want- I mean you know you've got to, like, do your hair.  I mean- I don't know, it's like,",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 39,
+			"text": "Yeah, I- I make my",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				38
+			]
+		},
+		{
+			"turn": 40,
+			"text": "I make myself very presentable before I go to any kind of interview.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				40,
+				38
+			]
+		},
+		{
+			"turn": 41,
+			"text": "you know what I mean? You know, it's like they say presentation is, like eighty percent.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 42,
+			"text": "or some- some large percent of- of success.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 43,
+			"text": "Uhuh. Uhuh. Yeah, yeah. Good quote.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				41,
+				34
+			]
+		},
+		{
+			"turn": 44,
+			"text": "Because I don't know I mean just, you know, just keep- keep- keep at it.  Keep trying.  Go-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 45,
+			"text": "Buck-O. That's really helpful.  Just keep chugging along.  The little engine that could.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				44,
+				45
+			]
+		},
+		{
+			"turn": 46,
+			"text": "Well you- just you're doing something wrong.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				44,
+				46,
+				45
+			]
+		},
+		{
+			"turn": 47,
+			"text": "Look if I could give you a job,if I could give you a job I would but I mean I'm not in that position. I'm-",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				47,
+				46
+			]
+		},
+		{
+			"turn": 48,
+			"text": "Well maybe you could help.  I mean you've got a job.  I'm willing to look outside of my realm.  I could try something else.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				47,
+				48,
+				46
+			]
+		},
+		{
+			"turn": 49,
+			"text": "Hey, I'd love to help you but I- you don't have the kind of training that I-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 50,
+			"text": "I'll get it.  I just need a job.  I don't care what it is.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				48,
+				50
+			]
+		},
+		{
+			"turn": 51,
+			"text": "So, go to McDonalds.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				48,
+				50
+			]
+		},
+		{
+			"turn": 52,
+			"text": "Well I mean I need to make a little bit more than the minimum wage fry flipper.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				51,
+				50,
+				52
+			]
+		},
+		{
+			"turn": 53,
+			"text": "Well you've got to start somewhere.  I mean-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 54,
+			"text": "I did start somewhere.  I worked my way up.  I'm not going to start at the bottom again.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				54,
+				53,
+				52
+			]
+		},
+		{
+			"turn": 55,
+			"text": "Well you're going to have to.  You don't really have an option.  What's your problem?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				54,
+				55,
+				53
+			]
+		},
+		{
+			"turn": 56,
+			"text": "What's my problem?  What's my problem? I don't have a job.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				54,
+				56,
+				55
+			]
+		},
+		{
+			"turn": 57,
+			"text": "I don't know it's like I'm trying to be-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 58,
+			"text": "I thought I was pretty clear about what the problem was.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				56,
+				58,
+				55
+			]
+		},
+		{
+			"turn": 59,
+			"text": "I'm trying to be helpful.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 60,
+			"text": "Well maybe you could be a little helpful.  I mean obviously you don't have any problems so would it really take so much time out of your day to just go ahead and help somebody else.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				58,
+				60
+			]
+		},
+		{
+			"turn": 61,
+			"text": "I'm trying to watch TV.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 62,
+			"text": "That's important.  That's really important.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				58,
+				60
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "How's it going, babe?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 2,
+			"text": "Yeah?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 3,
+			"text": "All right.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 4,
+			"text": "She's doing fine. She just took her first steps today actually. I videotaped it for you so you can watch it.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 5,
+			"text": "oh.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 6,
+			"text": "Well umm- actually they--I was promoted.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				6,
+				4
+			]
+		},
+		{
+			"turn": 7,
+			"text": "Oh, wow. That's great.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				6
+			]
+		},
+		{
+			"turn": 8,
+			"text": "And Uh- Yeah. Uh- They're going to need um- more nurses on call for uh- to go overseas to help out with the war.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				8
+			]
+		},
+		{
+			"turn": 9,
+			"text": "yeah.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				8
+			]
+		},
+		{
+			"turn": 10,
+			"text": "It's going- It's going to be probably in about three weeks.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				10,
+				8
+			]
+		},
+		{
+			"turn": 11,
+			"text": "yeah",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				10
+			]
+		},
+		{
+			"turn": 12,
+			"text": "God, we're supposed to take a look at a house next week.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				10
+			]
+		},
+		{
+			"turn": 13,
+			"text": "Maybe we can still do that",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				12
+			]
+		},
+		{
+			"turn": 14,
+			"text": "I can't- No, I can't do this alone.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				13
+			]
+		},
+		{
+			"turn": 15,
+			"text": "Yeah, and uh--",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 16,
+			"text": "I know, but look, I have to take this. I mean, if I don't, I mean, I could get fired.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				16
+			]
+		},
+		{
+			"turn": 17,
+			"text": "And we know you need-we need the money. We couldn't even- purchase a house if I didn't take this.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				16,
+				17
+			]
+		},
+		{
+			"turn": 18,
+			"text": "God.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				17
+			]
+		},
+		{
+			"turn": 19,
+			"text": "You know what happened to my cousin. She went and she never came back.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 20,
+			"text": "Honey, I'm going to come back. It's not like that.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 21,
+			"text": "But it- it is for a year.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				19,
+				20
+			]
+		},
+		{
+			"turn": 22,
+			"text": "Oh",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				21
+			]
+		},
+		{
+			"turn": 23,
+			"text": "Babe, I'm sorry. But I don't want to do.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				8
+			]
+		},
+		{
+			"turn": 24,
+			"text": "I can't-",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				21
+			]
+		},
+		{
+			"turn": 25,
+			"text": "You know as much as -as much as me that I-I want to stay here with you and Amy so bad, but I can't.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				25
+			]
+		},
+		{
+			"turn": 26,
+			"text": "But you're so good with her. You know, she knows you better than she knows me 'cause I'm at work every day.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				25,
+				26
+			]
+		},
+		{
+			"turn": 27,
+			"text": "I have to work.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				27
+			]
+		},
+		{
+			"turn": 28,
+			"text": "[BREATHING]",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				27
+			]
+		},
+		{
+			"turn": 29,
+			"text": "Babe, I love you.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				25
+			]
+		},
+		{
+			"turn": 30,
+			"text": "You can't leave your daughter alone like this.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				30
+			]
+		},
+		{
+			"turn": 31,
+			"text": "But she has you. I mean, that's what you're there for. You're my right-hand man.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				30
+			]
+		},
+		{
+			"turn": 32,
+			"text": "It's going to be okay.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				30,
+				31
+			]
+		},
+		{
+			"turn": 33,
+			"text": "You can't postpone it?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				30
+			]
+		},
+		{
+			"turn": 34,
+			"text": "No, I have to go.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				33
+			]
+		},
+		{
+			"turn": 35,
+			"text": "Wait, you can write me and as you know, send me pictures.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				34
+			]
+		},
+		{
+			"turn": 36,
+			"text": "I don't know if I can handle you going another year.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				36
+			]
+		},
+		{
+			"turn": 37,
+			"text": "What do you mean?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				36
+			]
+		},
+		{
+			"turn": 38,
+			"text": "I don't know if I- if I could take it.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				38
+			]
+		},
+		{
+			"turn": 39,
+			"text": "Look, I need you to be strong for me. 'Cause I can't be the only one that's strong right now, really, I--",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				39,
+				38
+			]
+		},
+		{
+			"turn": 40,
+			"text": "I can't be that strong. A whole year.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				39
+			]
+		},
+		{
+			"turn": 41,
+			"text": "me, oh my god.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				39
+			]
+		},
+		{
+			"turn": 42,
+			"text": "What if you don't come back?",
+			"speaker": "M",
+			"emotion": 5
+		},
+		{
+			"turn": 43,
+			"text": "and if we survive, if we survive that then babe, you know you know we could survive any--",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				42,
+				43
+			]
+		},
+		{
+			"turn": 44,
+			"text": "I will come back.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				43
+			]
+		},
+		{
+			"turn": 45,
+			"text": "It doesn't look very good.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				45,
+				43
+			]
+		},
+		{
+			"turn": 46,
+			"text": "we'll have all the money that we ever needed.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				45
+			]
+		},
+		{
+			"turn": 47,
+			"text": "And- And then I'll stop working and- I'll stay home with the baby.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				45
+			]
+		},
+		{
+			"turn": 48,
+			"text": "I don't want the money. I want-you here",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				48,
+				46
+			]
+		},
+		{
+			"turn": 49,
+			"text": "If your life is going to be in danger and this family is going to be in danger we don't need the job. We'll find the money.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				49,
+				46
+			]
+		},
+		{
+			"turn": 50,
+			"text": "It's all I ever knew how to do. I can't quit now.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				49
+			]
+		},
+		{
+			"turn": 51,
+			"text": "How are we supposed to tell Amy? How's she supposed to understand that?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				51
+			]
+		},
+		{
+			"turn": 52,
+			"text": "Well, we- we tell her mommy's going on va- on a trip for for- a while.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				51,
+				52
+			]
+		},
+		{
+			"turn": 53,
+			"text": "How is she going to feel the first year in school, no mom.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				53,
+				52
+			]
+		},
+		{
+			"turn": 54,
+			"text": "Don't do that to me.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				53
+			]
+		},
+		{
+			"turn": 55,
+			"text": "It's hard enough already, Brian, I can't.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				55,
+				53
+			]
+		},
+		{
+			"turn": 56,
+			"text": "I know.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				55
+			]
+		},
+		{
+			"turn": 57,
+			"text": "I didn't expect this to happen. I never planned for this. Some things you just don't plan for, you know.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				57
+			]
+		},
+		{
+			"turn": 58,
+			"text": "I'm sorry, babe.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				57
+			]
+		},
+		{
+			"turn": 59,
+			"text": "I'm so sorry.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				57
+			]
+		},
+		{
+			"turn": 60,
+			"text": "All right, then.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				57
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "I know, it went out of style, didn't it?",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				1
+			]
+		},
+		{
+			"turn": 2,
+			"text": "It's all right.  It's a good thing.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 3,
+			"text": "You know, it's lovely here, the air is sweet.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				3,
+				2
+			]
+		},
+		{
+			"turn": 4,
+			"text": "No, not sorry.  But, um. But I'm not gonna stay.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				2,
+				3
+			]
+		},
+		{
+			"turn": 5,
+			"text": "The trouble is, I planned on sort of sneaking up on you on a period of a week or so.  But they take it for granted that we're all set.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				5
+			]
+		},
+		{
+			"turn": 6,
+			"text": "I knew they would, your mother anyway.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				6
+			]
+		},
+		{
+			"turn": 7,
+			"text": "Well, from her point of view, why else would I come?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 8,
+			"text": "I guess this is why I came.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				6,
+				7
+			]
+		},
+		{
+			"turn": 9,
+			"text": "I'm embarrassing you and I didn't want to tell it to you here.  I wanted some place we'd never been before.  A place where we'd be brand new to each other.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 10,
+			"text": "Well, you started to write me",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 11,
+			"text": "You felt something that far back?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				10
+			]
+		},
+		{
+			"turn": 12,
+			"text": "Every day since.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				11,
+				12
+			]
+		},
+		{
+			"turn": 13,
+			"text": "Ann, why didn't you let me know?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				12
+			]
+		},
+		{
+			"turn": 14,
+			"text": "Let's drive someplace.  I want to be alone with you.",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 15,
+			"text": "No.  Nothing like that.",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 16,
+			"text": "Well, what's wrong?  I mean, even in your letters there was some--something ashamed.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				14,
+				16
+			]
+		},
+		{
+			"turn": 17,
+			"text": "Yeah, I suppose I have been.  But it's going from me.",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 18,
+			"text": "It wouldn't work this way.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				17
+			]
+		},
+		{
+			"turn": 19,
+			"text": "Well, I lost them.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 20,
+			"text": "Just about all.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 21,
+			"text": "It takes some time for a guy to toss that off.  'Cause they weren't just men.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				21,
+				19
+			]
+		},
+		{
+			"turn": 22,
+			"text": "For instance, this one time, it had been raining several days and this kid came to me and gave me his last pair of dry socks.  I put them in pocket.  It's only a little thing, but those are the kind of guys I had.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				21,
+				22
+			]
+		},
+		{
+			"turn": 23,
+			"text": "They didn't die, they killed themselves for each other.  I mean that exactly.  I mean, a little more selfish and they'd have been here today.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				23
+			]
+		},
+		{
+			"turn": 24,
+			"text": "I got this idea watching 'em go down.  Everything was being destroyed, see, but it seemed that one new thing was made.  A sort of responsibility.  Man for man. You know what I mean?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				24,
+				23
+			]
+		},
+		{
+			"turn": 25,
+			"text": "To show that, to bring that onto the Earth again, like some kind of monument and everyone can feel it standing behind him and it would make a difference to him.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				25,
+				24
+			]
+		},
+		{
+			"turn": 26,
+			"text": "Then I came back and it was incredible.  There was no meaning in it here. I mean, the whole thing to them seemed like it's sort of a bus accident.  I went to work with Dad and that rat race again.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				26,
+				23
+			]
+		},
+		{
+			"turn": 27,
+			"text": "And I felt what you said, ashamed somehow 'cause nobody had changed at all.  It seemed to make suckers out of a lot of guys.  I felt wrong to be alive to open the new bank book, drive the new car, see the new refrigerator.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				26,
+				27
+			]
+		},
+		{
+			"turn": 28,
+			"text": "I mean, you can take those things out of a war, but when you drive that car, you've gotta realize that it came out of the love a man can have for a man.  You've gotta be a little better because of it.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				27,
+				28
+			]
+		},
+		{
+			"turn": 29,
+			"text": "Otherwise all you have is really loot and there's blood on it.  And I didn't want to take any of that.  And I guess that included you.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				29,
+				28
+			]
+		},
+		{
+			"turn": 30,
+			"text": "Do you still feel that way?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				29
+			]
+		},
+		{
+			"turn": 31,
+			"text": "I want you now Annie.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 32,
+			"text": "'Cause you mustn't feel that way.  Because you have a right to everything you have, Chris.  Everything, you understand that?  Me too.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				32,
+				29
+			]
+		},
+		{
+			"turn": 33,
+			"text": "I mean, and your money, there's- there's nothing wrong with your money.  I mean, your father put hundreds of planes in the air.  A man should be paid for that.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				32,
+				33
+			]
+		},
+		{
+			"turn": 34,
+			"text": "What'll I do with a fortune?",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				34
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "Hey, what time is it? They're supposed to run around midnight, right? God, this is great, isn't it?",
+			"speaker": "M",
+			"emotion": 4
+		},
+		{
+			"turn": 2,
+			"text": "Look at the night we got; couldn't be better.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 3,
+			"text": "You know actually, I wanted to go a little further up the coast to get away from all the, the people and the lights, and uh- but I thought we'd miss it. Hey, how you doing?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 4,
+			"text": "Fine.",
+			"speaker": "F",
+			"emotion": 1
+		},
+		{
+			"turn": 5,
+			"text": "Oh, is that-is that-now, is that just foam, uhh, I can't even tell.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				2,
+				3,
+				1
+			]
+		},
+		{
+			"turn": 6,
+			"text": "Oh, though if I can't tell it probably isn't them, right? It probably would be unmistakable, wouldn't you think? Hey, how you doing?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				2,
+				3,
+				1
+			]
+		},
+		{
+			"turn": 7,
+			"text": "Oh, do you know what I forgot? I forgot my flashlight. How could I be so stupid. Oh, I-I should have brought my flashlight.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				2,
+				6
+			]
+		},
+		{
+			"turn": 8,
+			"text": "Uh- you know, the flashlight. The silver one. There's only one, isn't there?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				2,
+				7
+			]
+		},
+		{
+			"turn": 9,
+			"text": "I don't understand why you're always saying oh, it's mine, it's mine. It's not like it's just your flashlight. I mean, how do you think that makes me feel?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				7,
+				8
+			]
+		},
+		{
+			"turn": 10,
+			"text": "We should have brought our flashlight. I can't believe we forgot to bring it.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				5
+			]
+		},
+		{
+			"turn": 11,
+			"text": "I hope the moon stays out.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				5
+			]
+		},
+		{
+			"turn": 12,
+			"text": "Hey, do they always run during a full moon? I can't remember if it was full last year. Do you remember?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				11
+			]
+		},
+		{
+			"turn": 13,
+			"text": "We should have brought the blanket. Oh, why didn't we bring the blanket? Our blanket.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 14,
+			"text": "You know what would be good right now? A six-pack. Ah, I can't believe I forgot a six-pack. A six-pack would be just the ticket right about now.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 15,
+			"text": "I'm so stupid. I'm like a little kid. I-it's amazing I get out of the house with my fly zipped. Oh- [LAUGHTER].",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				7,
+				13
+			]
+		},
+		{
+			"turn": 16,
+			"text": "I wonder if they can hear us talk. Or hear the vibrations in the sand when we move.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				16,
+				15,
+				14
+			]
+		},
+		{
+			"turn": 17,
+			"text": "Do you want my jacket?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 18,
+			"text": "Right.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 19,
+			"text": "Yeah, that's my point too.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 20,
+			"text": "No. No, no, no, that's not my point. My point is there's no point in coming down here if we just turn around and leave.",
+			"speaker": "M",
+			"emotion": 4
+		},
+		{
+			"turn": 21,
+			"text": "I mean, don't you want to see it?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 22,
+			"text": "Not particularly.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				21
+			]
+		},
+		{
+			"turn": 23,
+			"text": "Why not?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 24,
+			"text": "I don't know. I just don't.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				9,
+				22
+			]
+		},
+		{
+			"turn": 25,
+			"text": "Pass up what? A bunch of fish. They swim up to the beach and they flop around and they swim away and then they die.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				24,
+				22
+			]
+		},
+		{
+			"turn": 26,
+			"text": "I don't know why you're getting so excited. I mean, it's not like the landing of the moon or something. It's just fish. Fish that nobody eats.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 27,
+			"text": "Oh, God, Augie.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 28,
+			"text": "Yes, and if you also remember, I got sand in my panties. We got into an argument about nothing. You got a sore throat and we never saw the grunions.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				28
+			]
+		},
+		{
+			"turn": 29,
+			"text": "No, for God's sakes, we've never seen the grunions. We're not going to see them.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				29,
+				28
+			]
+		},
+		{
+			"turn": 30,
+			"text": "We just weren't in a good spot, all right? This is a much better spot. I have a good instinct for these things. Look, is that-",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				29
+			]
+		},
+		{
+			"turn": 31,
+			"text": "I wouldn't miss this for anything. I mean, think about this. Okay, I know you're not interested, but just think about this for a minute.",
+			"speaker": "M",
+			"emotion": 4
+		},
+		{
+			"turn": 32,
+			"text": "And they all, all as one, turned as one and formed this line as big as the California coast and started swimming this way. Swimming as if that's the only thing that matters.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				32
+			]
+		},
+		{
+			"turn": 33,
+			"text": "You know, they didn't ask it a question. They didn't, they didn't take a vote. They didn't have an invitation or a map; they just started swimming as one.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				33,
+				32
+			]
+		},
+		{
+			"turn": 34,
+			"text": "its single-mindedness with one mind. Urgency that's pure urge. You know, they don't give it a name.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				33
+			]
+		},
+		{
+			"turn": 35,
+			"text": "They don't ask it a question. They just, they just, they don't know what drives them. They just turn as one and start the swim that brings them to here",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				33
+			]
+		},
+		{
+			"turn": 36,
+			"text": "where we stand for a massive celebration of sex and death. Oh, God, I'm giving myself goosebumps. Look, I'm all-all my hairs on my arms is sticking up.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				36,
+				33
+			]
+		},
+		{
+			"turn": 37,
+			"text": "About what I just said.",
+			"speaker": "M",
+			"emotion": 0
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "Yeah, hi.  Um, look, I -- all I'm trying to do right now is renew my license plate.  That's all.  I just need to get one of those little stickers.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 2,
+			"text": "Okay.  What's the problem?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 3,
+			"text": "And I've- I've- some lady -- I got in line.  I waited for about two hours um, and, I gave her this form",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				3
+			]
+		},
+		{
+			"turn": 4,
+			"text": "that she gave to me earlier. And she said oh, I gave you the wrong one by accident.  So I was hoping I could just fill out a new one, give it to you and sort of skip this whole line business.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				3,
+				4
+			]
+		},
+		{
+			"turn": 5,
+			"text": "Okay, um.  Do you have your photo ID with you?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 6,
+			"text": "Yes, I do.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 7,
+			"text": "Okay.  This is the wrong form.  I'm sorry.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 8,
+			"text": "This is -- okay, then just can I have the form that I need.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				7,
+				4,
+				3
+			]
+		},
+		{
+			"turn": 9,
+			"text": "I don't have the form.  You're going to have to go get in that line over there and they will give you the right form.  And after you fill it out, you can bring it back to me.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				8
+			]
+		},
+		{
+			"turn": 10,
+			"text": "Don't you -- you don't have-",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 11,
+			"text": "are you telling me you don't have a stack of them behind the desk?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				11,
+				9
+			]
+		},
+		{
+			"turn": 12,
+			"text": "I don't have any of",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				11
+			]
+		},
+		{
+			"turn": 13,
+			"text": "I don't have any of them over here.  You're gonna have to go get in that line over there.  And they will give you a copy of the form.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				13
+			]
+		},
+		{
+			"turn": 14,
+			"text": "But you're -- it's the same -- I mean, you can -- like I can't go behind your desk--",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 15,
+			"text": "Nope, I don't. I don't have-",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 16,
+			"text": "or I can't go behind there- you can go behind this person's desk and just grab the form. So if you could just do that; that would help me out a lot.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				16
+			]
+		},
+		{
+			"turn": 17,
+			"text": "No, I can't. That's-",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				16
+			]
+		},
+		{
+			"turn": 18,
+			"text": "I'm sorry.  You have to do things the way you have to do things here.  We have rules.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				16,
+				18
+			]
+		},
+		{
+			"turn": 19,
+			"text": "Look, can you please just-- --make this -- look, I look--",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				18
+			]
+		},
+		{
+			"turn": 20,
+			"text": "Go get in that-- Sir-- Sir, there are people in line behind you. you need",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				20
+			]
+		},
+		{
+			"turn": 21,
+			"text": "look-- It's  been- it's been two hours.  Can you please just make this easier on me and just go and get the form?  It's not- it's really not",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				21,
+				20
+			]
+		},
+		{
+			"turn": 22,
+			"text": "I'm sorry.  I'm sorry you're having a hard time,",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				21
+			]
+		},
+		{
+			"turn": 23,
+			"text": "but you're gonna have to go get in  that line to",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				21
+			]
+		},
+		{
+			"turn": 24,
+			"text": "What if I pay you money?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				23
+			]
+		},
+		{
+			"turn": 25,
+			"text": "Can I pay you money?  Can I give you, like, twenty bucks and you'll go back there and get the form?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				23
+			]
+		},
+		{
+			"turn": 26,
+			"text": "twenty bucks? Please. Go get in that line over there.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 27,
+			"text": "Come on.  Will you please?  I just --I look, I  cannot-- --just if I --",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 28,
+			"text": "Look, I'm having a really bad day.  I'm off in twenty minutes and I just really don't need this right now, okay.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				27,
+				28
+			]
+		},
+		{
+			"turn": 29,
+			"text": "I don't care, well- You're having a bad -- I just waited in line for two hours.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				29,
+				28
+			]
+		},
+		{
+			"turn": 30,
+			"text": "And you're gonna have to go wait again, because that's the line you need.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				30,
+				29
+			]
+		},
+		{
+			"turn": 31,
+			"text": "I can't do that. It's against our rules. You can go get in that line over there or you can just go ahead and leave and come back another day.  Maybe there will be a shorter line.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				31
+			]
+		},
+		{
+			"turn": 32,
+			"text": "That's all I- I just- That's all i want you to-",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				31
+			]
+		},
+		{
+			"turn": 33,
+			"text": "Rules, you just have to grab a piece of paper behind from somebody's desk",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				31
+			]
+		},
+		{
+			"turn": 34,
+			"text": "It's not rocket science.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				33,
+				34
+			]
+		},
+		{
+			"turn": 35,
+			"text": "Come -- just, please, just grab the form.  It's right over there.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				31
+			]
+		},
+		{
+			"turn": 36,
+			"text": "I can't do that.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				35,
+				34
+			]
+		},
+		{
+			"turn": 37,
+			"text": "Why are you being such a bitch?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				36
+			]
+		},
+		{
+			"turn": 38,
+			"text": "I'm sorry, but I can't do that.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				37,
+				35,
+				34
+			]
+		},
+		{
+			"turn": 39,
+			"text": "Please, will you please -- will you please just grab the form?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				38
+			]
+		},
+		{
+			"turn": 40,
+			"text": "So go get in the other line or leave.  Or I will have you escorted out by security.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				39,
+				37
+			]
+		},
+		{
+			"turn": 41,
+			"text": "Would you like to be kicked out of the D.M.V.?  You don't think that'll be a little embarrassing?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				39
+			]
+		},
+		{
+			"turn": 42,
+			"text": "Fine, which line is it?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				41,
+				40
+			]
+		},
+		{
+			"turn": 43,
+			"text": "The one you just came from.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				42
+			]
+		},
+		{
+			"turn": 44,
+			"text": "Okay, fine.  I'll go over there.  Thanks, a lot.  You've been really helpful.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				41,
+				40
+			]
+		},
+		{
+			"turn": 45,
+			"text": "Yeah.  Thank you.  Have a pleasant day.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				44
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "You okay?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 2,
+			"text": "Yeah, I'm just-- yeah",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 3,
+			"text": "Just kind of feel numb, you know.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				3
+			]
+		},
+		{
+			"turn": 4,
+			"text": "What's happened?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 5,
+			"text": "You didn't even hear?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				5
+			]
+		},
+		{
+			"turn": 6,
+			"text": "[BREATHING] Umm.",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 7,
+			"text": "God I've told this story so many times. Umm.",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 8,
+			"text": "You don't have to if you don't want to.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 9,
+			"text": "I just...I just basically lost someone that was really close to me.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 10,
+			"text": "And I've kind of been dealing with all of the...the stuff, you know the hospital and people work because...",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				10,
+				9
+			]
+		},
+		{
+			"turn": 11,
+			"text": "I'm sorry to hear that.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				10,
+				9
+			]
+		},
+		{
+			"turn": 12,
+			"text": "He kind of didn't have anyone to take care of that for him, so--",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				12,
+				9
+			]
+		},
+		{
+			"turn": 13,
+			"text": "You've been taking care of it all?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				12
+			]
+		},
+		{
+			"turn": 14,
+			"text": "Oh Jesus.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				12
+			]
+		},
+		{
+			"turn": 15,
+			"text": "It's just really...really messed up.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				12,
+				9
+			]
+		},
+		{
+			"turn": 16,
+			"text": "He sick for awhile?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				12
+			]
+		},
+		{
+			"turn": 17,
+			"text": "No.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 18,
+			"text": "Just like it.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 19,
+			"text": "Was it an accident?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 20,
+			"text": "No, I mean it just came on really quick, you know I mean it was a [GARBAGE] it was a sickness but it just --",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				10,
+				20
+			]
+		},
+		{
+			"turn": 21,
+			"text": "how was sick?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 22,
+			"text": "What?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				20,
+				12,
+				9
+			]
+		},
+		{
+			"turn": 23,
+			"text": "Well, I'm confused.  He was sick or it was an accident?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 24,
+			"text": "He was sick. He got sick. He got sick but it happened really, really fast, you know.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				24
+			]
+		},
+		{
+			"turn": 25,
+			"text": "Oh. Really fast? Oh.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 26,
+			"text": "It was kind of like boom... done",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				26,
+				24,
+				20
+			]
+		},
+		{
+			"turn": 27,
+			"text": "Yeah.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 28,
+			"text": "It's just really weird because he was really young you know and it kind of like...",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				28
+			]
+		},
+		{
+			"turn": 29,
+			"text": "Yeah.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 30,
+			"text": "--it just kind of freaks you out.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				28,
+				24
+			]
+		},
+		{
+			"turn": 31,
+			"text": "Totally, yeah.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 32,
+			"text": "So weird you know that like one days it's like you know sounds so stupid but like one day someone's here. And like next day you know they're not here and it just kind of makes you like think about like life and mortality and like that kind of stuff.  You just like used to take for granted--you know.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				32
+			]
+		},
+		{
+			"turn": 33,
+			"text": "Mmhmm.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 34,
+			"text": "Lock",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 35,
+			"text": "Mmhmm.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 36,
+			"text": "The plans you make [GARBAGE].",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 37,
+			"text": "Exactly, you know, and like he had so many plans and he was going to do...",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				37,
+				32
+			]
+		},
+		{
+			"turn": 38,
+			"text": "It leaves a hole for you too.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 39,
+			"text": "so many things, you know?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				37,
+				32
+			]
+		},
+		{
+			"turn": 40,
+			"text": "It leaves a hole for you too, in your plans together.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 41,
+			"text": "What?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				37,
+				40
+			]
+		},
+		{
+			"turn": 42,
+			"text": "Yeah.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				37,
+				40
+			]
+		},
+		{
+			"turn": 43,
+			"text": "It gets better.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 44,
+			"text": "He was a really, really good guy.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				44,
+				37
+			]
+		},
+		{
+			"turn": 45,
+			"text": "Mmhmm.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 46,
+			"text": "A lot of people loved him.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				44,
+				46
+			]
+		},
+		{
+			"turn": 47,
+			"text": "MMhmm.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 48,
+			"text": "You know, it's like affecting a lot of people it's not just me, you know?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				48,
+				46
+			]
+		},
+		{
+			"turn": 49,
+			"text": "Mmhmm.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 50,
+			"text": "How long did you know each other?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 51,
+			"text": "Umm...",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				48,
+				46
+			]
+		},
+		{
+			"turn": 52,
+			"text": "For like eight years.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				48,
+				46
+			]
+		},
+		{
+			"turn": 53,
+			"text": "That's a long time.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 54,
+			"text": "Yeah.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				44
+			]
+		},
+		{
+			"turn": 55,
+			"text": "It's good that you were there.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 56,
+			"text": "Yeah, I'm glad I was there. Glad I- glad I got to be there.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				48,
+				56,
+				55
+			]
+		},
+		{
+			"turn": 57,
+			"text": "So weird,",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				48,
+				56,
+				55
+			]
+		},
+		{
+			"turn": 58,
+			"text": "Yeah.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 59,
+			"text": "like I can't...it's like you know it's like \"pinch me\" it's like I can't believe like I'm dealing with this, you know.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				59,
+				56
+			]
+		},
+		{
+			"turn": 60,
+			"text": "Are there things you wish you'd done differently?",
+			"speaker": "F",
+			"emotion": 0
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "Check this out.  You know how I've told you I've been really into like softball recently?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				1
+			]
+		},
+		{
+			"turn": 2,
+			"text": "Yeah.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 3,
+			"text": "Well, this is totally random, I got this full ride scholarship to go to U.S.C next year to play softball.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				3
+			]
+		},
+		{
+			"turn": 4,
+			"text": "[LAUGHTER]. For softball? That's unbelievable. Is it slow pitch?",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				3
+			]
+		},
+		{
+			"turn": 5,
+			"text": "For softball.  They're going to pay me to go to school. Isn't that awesome?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				3,
+				5
+			]
+		},
+		{
+			"turn": 6,
+			"text": "Yeah.  Well, I don't--well yeah I can pitch, I'm not like the pitcher though. I'm like the pinch hitter guy I mostly just hit.  But I guess I'm going to have to... Yeah, and then I play shortstop too but... It's so ex- The good news is I get to stay here.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				6,
+				5
+			]
+		},
+		{
+			"turn": 7,
+			"text": "Uh huh.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				6,
+				5
+			]
+		},
+		{
+			"turn": 8,
+			"text": "Pinch hitting softball.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				8
+			]
+		},
+		{
+			"turn": 9,
+			"text": "That is incredible.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				8
+			]
+		},
+		{
+			"turn": 10,
+			"text": "That's amazing. They pay for everything?",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				10,
+				6,
+				8
+			]
+		},
+		{
+			"turn": 11,
+			"text": "I know. For softball, yeah.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				11,
+				10
+			]
+		},
+		{
+			"turn": 12,
+			"text": "Your housing, books, everything? That is incredible.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				11,
+				12,
+				10
+			]
+		},
+		{
+			"turn": 13,
+			"text": "Yeah, everything. Every like- free ride and I get to, you know, like be on like a Trojans sports team too. And it's like cool. Isn't it awesome?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				12,
+				13
+			]
+		},
+		{
+			"turn": 14,
+			"text": "That is incredible. Do you get like a per diem?",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				12,
+				13
+			]
+		},
+		{
+			"turn": 15,
+			"text": "I don't know. I should ask. Yeah, I will.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				12,
+				13
+			]
+		},
+		{
+			"turn": 16,
+			"text": "You should...You should look into that.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				13
+			]
+		},
+		{
+			"turn": 17,
+			"text": "That is amazing, congratulations. Good for you.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				17,
+				13
+			]
+		},
+		{
+			"turn": 18,
+			"text": "Thank you.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				17,
+				13
+			]
+		},
+		{
+			"turn": 19,
+			"text": "But I don't know I want to live in the housing that they give me though 'cause I think I want to you know like get like a nicer place.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				19,
+				17
+			]
+		},
+		{
+			"turn": 20,
+			"text": "Oh.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 21,
+			"text": "Yeah, that you probably. You should see one of these Victorian houses around by.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				21,
+				19
+			]
+		},
+		{
+			"turn": 22,
+			"text": "Where should I move?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				21,
+				19
+			]
+		},
+		{
+			"turn": 23,
+			"text": "That's a really good idea. Or I could go to like Santa Monica. Go beach. Venice beach, yeah a little dirty though. I don't want to go to Venice beach. But - Malibu. All right.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				21,
+				23
+			]
+		},
+		{
+			"turn": 24,
+			"text": "Oh. Venice beach.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 25,
+			"text": "Oh, you don't like that. You're west-sider?",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				23,
+				19
+			]
+		},
+		{
+			"turn": 26,
+			"text": "Okay. That would be way too much of a commute you can't do that. Especially- I know especially from--I don't know, what I was going to say, I don't know.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 27,
+			"text": "Professional softball player Malibu. [LAUGHTER]",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				26,
+				27
+			]
+		},
+		{
+			"turn": 28,
+			"text": "I don't know. Commuting from what Malibu that would be ridiculous.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				26,
+				28
+			]
+		},
+		{
+			"turn": 29,
+			"text": "Oh yeah, that would be.  Well, depends on what type of car you had, though too. I guess it would be worth it. helicopter. Yeah, helicopter.  There is a helipad there, right? Yeah, exactly.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				29,
+				28
+			]
+		},
+		{
+			"turn": 30,
+			"text": "Oh yeah. He'd drop you right off at practice?",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				29,
+				28
+			]
+		},
+		{
+			"turn": 31,
+			"text": "They have those neon--softballs.  They're like day-glow you can see them anywhere.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				31
+			]
+		},
+		{
+			"turn": 32,
+			"text": "Oh. That is incredible. Is it--",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 33,
+			"text": "do they have a--is it a co-ed softball team?  I mean... Really? You know, I didn't even know that they have that.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				31,
+				33
+			]
+		},
+		{
+			"turn": 34,
+			"text": "They do it's--believe me it's huge.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				33,
+				34
+			]
+		},
+		{
+			"turn": 35,
+			"text": "Who do you play? Like do--are you like... nationally ranked?",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				33,
+				34
+			]
+		},
+		{
+			"turn": 36,
+			"text": "I just got into it. I just kind of fell into it. Literally I was walking around and...",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				36,
+				35
+			]
+		},
+		{
+			"turn": 37,
+			"text": "That is unbelievable.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				36,
+				34
+			]
+		},
+		{
+			"turn": 38,
+			"text": "It's pretty wild.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				36
+			]
+		},
+		{
+			"turn": 39,
+			"text": "I would put that right up there with--ping-pong.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				39
+			]
+		},
+		{
+			"turn": 40,
+			"text": "Yeah, well I doubt [GARBAGE] ping pong [GARBAGE]",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 41,
+			"text": "I mean not to denigrate what you are doing.  I think that's great.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				41,
+				39
+			]
+		},
+		{
+			"turn": 42,
+			"text": "No, no.  I love softball. I played softball all the time.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				41,
+				42,
+				39
+			]
+		},
+		{
+			"turn": 43,
+			"text": "I am not saying you should be. I'm not no. I think it's great I think you should be incredibly proud yourself especially because you're going to U.S.C for free for doing it. For free.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				41,
+				42,
+				43
+			]
+		},
+		{
+			"turn": 44,
+			"text": "For free that's really what it's about. I mean who cares I mean if I have to play softball all the time?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				44,
+				42,
+				43
+			]
+		},
+		{
+			"turn": 45,
+			"text": "Yeah we have like away games and stuff.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 46,
+			"text": "But you know I'm like [GARBAGE].",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 47,
+			"text": "You're like the rookie? The new kid.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				47
+			]
+		},
+		{
+			"turn": 48,
+			"text": "Just watch in five years you'll be like on the force. You carry around donuts in your back pocket... [LAUGHTER]",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				47,
+				48
+			]
+		},
+		{
+			"turn": 49,
+			"text": "I'm going to have a mustache...On the force...",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				48
+			]
+		},
+		{
+			"turn": 50,
+			"text": "Pull over..",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				48
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "Can I help you?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 2,
+			"text": "Yes, please help me.  Where is my bag?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 3,
+			"text": "I need a little more information.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 4,
+			"text": "Where is my bag?  Come on, I've been here for four hours.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 5,
+			"text": "What- What flight did you come in on?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 6,
+			"text": "Okay, I'm coming in from Atlanta.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 7,
+			"text": "Georgia?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 8,
+			"text": "There's no need for you to raise your voice, sir.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 9,
+			"text": "I've been college educated.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 10,
+			"text": "I speak your language.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 11,
+			"text": "Are you insinuating that I don't have a college education and that- for some reason that makes you a better person than I am?",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				11
+			]
+		},
+		{
+			"turn": 12,
+			"text": "Listen, shut your smug mouth, okay?  I don't need that.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				11
+			]
+		},
+		{
+			"turn": 13,
+			"text": "I'm just saying you don't need to talk to me like I-",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 14,
+			"text": "I've been sitting here for four hours.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 15,
+			"text": "I'm not a child.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				11,
+				14,
+				12
+			]
+		},
+		{
+			"turn": 16,
+			"text": "You people have just been tossing me around like a used hanky.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				14,
+				16
+			]
+		},
+		{
+			"turn": 17,
+			"text": "You work here.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				14,
+				16
+			]
+		},
+		{
+			"turn": 18,
+			"text": "Details, Details.  Well, anyhow can I--",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 19,
+			"text": "so you flew in from Atlanta...",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 20,
+			"text": "My bag from Atlanta.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				16
+			]
+		},
+		{
+			"turn": 21,
+			"text": "Four...Four hours ago.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 22,
+			"text": "It's a little black bag with wheels.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				16
+			]
+		},
+		{
+			"turn": 23,
+			"text": "Do you have any i-?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 24,
+			"text": "I wouldn't let you?   I was not in Atlanta. I was not in Atlanta.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 25,
+			"text": "I had nothing to do with the boarding attendance.  I'm sorry that your seat was wherever it was.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 26,
+			"text": "I have some unfortunate news, uh, that your bag isn't going to be--",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 27,
+			"text": "--arriving any time soon.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 28,
+			"text": "I'm really sorry to tell you this but...",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 29,
+			"text": "Okay.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 30,
+			"text": "It's not.  I can offer you fifty dollars and a reimbursement gift cards for our airline...",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 31,
+			"text": "...and your future...",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 32,
+			"text": "No.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 33,
+			"text": "Yes.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 34,
+			"text": "Where is it?  Where did it go?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				34
+			]
+		},
+		{
+			"turn": 35,
+			"text": "We've actually...",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 36,
+			"text": "They do as matter of fact.  We don't like to publicize it because",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 37,
+			"text": "people wouldn't Fly our airline.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 38,
+			"text": "Probably people that work for your company huh?",
+			"speaker": "M",
+			"emotion": 3
+		},
+		{
+			"turn": 39,
+			"text": "Do you know what was in that little bag that I could have just easily put in overhead compartment but no I had to check?",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				39
+			]
+		},
+		{
+			"turn": 40,
+			"text": "What was that?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 41,
+			"text": "My computer which has all of my data which I'm collecting right now.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				41,
+				39
+			]
+		},
+		{
+			"turn": 42,
+			"text": "That's unfortunate.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 43,
+			"text": "Yeah it's really unfortunate you know why because I'm going to get fired if I don't get that.  So I need to have that back.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				41,
+				43
+			]
+		},
+		{
+			"turn": 44,
+			"text": "That's too bad.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 45,
+			"text": "Fifty dollars is not going to cover me for my job, okay?",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				41,
+				45,
+				43
+			]
+		},
+		{
+			"turn": 46,
+			"text": "I wish I could give it to you.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 47,
+			"text": "Well you need to find it. Can I just go back there and look through the bags?  Can I just go back there and just go through maybe I'll find it.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				47,
+				43
+			]
+		},
+		{
+			"turn": 48,
+			"text": "I wish I-",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 49,
+			"text": "That's not - no.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 50,
+			"text": "No.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 51,
+			"text": "It'll be a lot more than what you're doing sitting here and just give me lip service.  I'd like to go back at least do some aggressive searching for my stuff.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				51,
+				47
+			]
+		},
+		{
+			"turn": 52,
+			"text": "We have plenty of aggressive searching going on it's not there.  Someone's taken it.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 53,
+			"text": "Sure, yeah right you have plenty of aggressive searching going on, aggressive searching, drinking coffee and smoking cigarettes.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				53
+			]
+		},
+		{
+			"turn": 54,
+			"text": "I know what you guys do when you're not working you're union people; you just sit around on your ass.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				54,
+				53
+			]
+		},
+		{
+			"turn": 55,
+			"text": "You know I don't need to take this sort of abuse.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				54,
+				55,
+				53
+			]
+		},
+		{
+			"turn": 56,
+			"text": "[BREATHING]",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				55
+			]
+		},
+		{
+			"turn": 57,
+			"text": "Thank you very much.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				55,
+				54,
+				53
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "Now and always sweet.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				1
+			]
+		},
+		{
+			"turn": 2,
+			"text": "I don't care then.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				1
+			]
+		},
+		{
+			"turn": 3,
+			"text": "It had to happen sooner or later.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				1
+			]
+		},
+		{
+			"turn": 4,
+			"text": "[BREATHING]",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				1,
+				3
+			]
+		},
+		{
+			"turn": 5,
+			"text": "Oh. Behave exquisitely...",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				5,
+				1
+			]
+		},
+		{
+			"turn": 6,
+			"text": "With perfect poise...",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				5,
+				3
+			]
+		},
+		{
+			"turn": 7,
+			"text": "[LAUGHTER] I think I shall do a court curtsey.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				6
+			]
+		},
+		{
+			"turn": 8,
+			"text": "Ah...",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				6,
+				7
+			]
+		},
+		{
+			"turn": 9,
+			"text": "[LAUGHTER]",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				6,
+				7
+			]
+		},
+		{
+			"turn": 10,
+			"text": "Ah...Strange...",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				7
+			]
+		},
+		{
+			"turn": 11,
+			"text": "Mmm...",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				10
+			]
+		},
+		{
+			"turn": 12,
+			"text": "Things that just ought to matter dreadfully, you know they just don't matter at all when one is happy, do they?",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				12
+			]
+		},
+		{
+			"turn": 13,
+			"text": "Darling, don't say that.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				13
+			]
+		},
+		{
+			"turn": 14,
+			"text": "Oh, yes meaning just that.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				12
+			]
+		},
+		{
+			"turn": 15,
+			"text": "Oh, dear god what is that all mean, dear god?",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 16,
+			"text": "[LAUGHTER] Don't laugh at me I'm being serious.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				14,
+				15
+			]
+		},
+		{
+			"turn": 17,
+			"text": "You mustn't be so serious, darling, it just what they want.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				16,
+				15,
+				14
+			]
+		},
+		{
+			"turn": 18,
+			"text": "Flippancy brings out the acid in their darn sweetness and light.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				16,
+				17
+			]
+		},
+		{
+			"turn": 19,
+			"text": "Mmhmm If I must laugh at everything, I must laugh at us too.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				18,
+				17
+			]
+		},
+		{
+			"turn": 20,
+			"text": "How long will it last, this ludicrous, overbearing love of ours?",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				19,
+				17
+			]
+		},
+		{
+			"turn": 21,
+			"text": "We are figures of fun all right",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				20
+			]
+		},
+		{
+			"turn": 22,
+			"text": "Ahh...who knows.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				21,
+				20
+			]
+		},
+		{
+			"turn": 23,
+			"text": "Shall we always want to bicker and fight?",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				23,
+				21,
+				20
+			]
+		},
+		{
+			"turn": 24,
+			"text": "If one of us dies...",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				21
+			]
+		},
+		{
+			"turn": 25,
+			"text": "I think you're talking nonsense.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				23,
+				21
+			]
+		},
+		{
+			"turn": 26,
+			"text": "Let's pity the poor philosophers, huh?  Let's enjoy the party for as long as we can, okay?  Let's blow trumpets and squeakers and sit like small idiotic school children. [LAUGHTER]",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 27,
+			"text": "Come here darling, kiss me",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				27,
+				26
+			]
+		},
+		{
+			"turn": 28,
+			"text": "before your body rots and worms pop out of your eye sockets.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				27
+			]
+		},
+		{
+			"turn": 29,
+			"text": "See, you know I don't care what you do.  You could paint yourself green and run naked to the Place Vendome.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				27
+			]
+		},
+		{
+			"turn": 30,
+			"text": "Do you remember that row we did have in Venice?",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				29,
+				27
+			]
+		},
+		{
+			"turn": 31,
+			"text": "Which particular one?",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				30
+			]
+		},
+		{
+			"turn": 32,
+			"text": "Oh, Charles.  That was his name Charles. He did wriggle so beautifully.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				30
+			]
+		},
+		{
+			"turn": 33,
+			"text": "But you know it wasn't as bad as the one we had in Cannes...mmhmm...where your curling irons burnt a hole in my dressing gown.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				30,
+				32
+			]
+		},
+		{
+			"turn": 34,
+			"text": "Cannes...mmhmm...",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				33
+			]
+		},
+		{
+			"turn": 35,
+			"text": "The manager came in he found us rolling about the floor.  [LAUGHTER]",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				33
+			]
+		},
+		{
+			"turn": 36,
+			"text": "I will never forget the look on his face.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				33,
+				35
+			]
+		},
+		{
+			"turn": 37,
+			"text": "Scratching and biting like panthers. [LAUGHTER] Oh...",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				36,
+				35
+			]
+		},
+		{
+			"turn": 38,
+			"text": "oh...",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				37,
+				36,
+				35
+			]
+		},
+		{
+			"turn": 39,
+			"text": "Utterly, utterly ridiculous.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				37,
+				36,
+				35
+			]
+		},
+		{
+			"turn": 40,
+			"text": "oh...[LAUGHTER]",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				37,
+				36
+			]
+		},
+		{
+			"turn": 41,
+			"text": "We were very much younger then.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				40,
+				39,
+				37
+			]
+		},
+		{
+			"turn": 42,
+			"text": "Very much sillier.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				41,
+				40,
+				37
+			]
+		},
+		{
+			"turn": 43,
+			"text": "Oh you knew there was nothing in that.",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				41,
+				42
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "Hey sweetie.",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 2,
+			"text": "Hey.",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 3,
+			"text": "Um.",
+			"speaker": "F",
+			"emotion": 2
+		},
+		{
+			"turn": 4,
+			"text": "How's it- going?  Oh I'm so tired.  Oh, I just woke up. Mmm.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 5,
+			"text": "Uh, -Um",
+			"speaker": "M",
+			"emotion": 1
+		},
+		{
+			"turn": 6,
+			"text": "Why the sad face?",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 7,
+			"text": "they need me out there sooner than I thought",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				7
+			]
+		},
+		{
+			"turn": 8,
+			"text": "They want to deploy me next week.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				7,
+				8
+			]
+		},
+		{
+			"turn": 9,
+			"text": "For--",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				7,
+				8
+			]
+		},
+		{
+			"turn": 10,
+			"text": "They said anywhere from two to three years.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				7,
+				8
+			]
+		},
+		{
+			"turn": 11,
+			"text": "Honey--",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				10,
+				7,
+				8
+			]
+		},
+		{
+			"turn": 12,
+			"text": "--need me on the specialist honey.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				10,
+				7,
+				8
+			]
+		},
+		{
+			"turn": 13,
+			"text": "You can't.  We need you.  I need you.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				10,
+				7,
+				8
+			]
+		},
+		{
+			"turn": 14,
+			"text": "I don't want to go but,-",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				7,
+				8
+			]
+		},
+		{
+			"turn": 15,
+			"text": "I don't care about the money.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				7,
+				8
+			]
+		},
+		{
+			"turn": 16,
+			"text": "but they said they'd increase my pay by triple-there promotion.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				8
+			]
+		},
+		{
+			"turn": 17,
+			"text": "No.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				13,
+				8
+			]
+		},
+		{
+			"turn": 18,
+			"text": "Do this whole thing by myself?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				8
+			]
+		},
+		{
+			"turn": 19,
+			"text": "Honey you're not going to be by yourself--",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				18,
+				13
+			]
+		},
+		{
+			"turn": 20,
+			"text": "We'll have internet set up, we'll get web cameras and everything.  My whole family's here too.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 21,
+			"text": "Carry her for nine months and then yes.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				20
+			]
+		},
+		{
+			"turn": 22,
+			"text": "It's not the same thing.  It's not like having you here.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				22
+			]
+		},
+		{
+			"turn": 23,
+			"text": "I can't do this.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				22
+			]
+		},
+		{
+			"turn": 24,
+			"text": "You can do it.  Alright?  You can, you can be strong, you can be strong for both of us alright?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 25,
+			"text": "I'm sick of being strong-- --for us.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				24,
+				22,
+				23
+			]
+		},
+		{
+			"turn": 26,
+			"text": "I don't know what to do.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				25,
+				22,
+				23
+			]
+		},
+		{
+			"turn": 27,
+			"text": "I don't want to - I don't- I don't want to go.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				25,
+				22
+			]
+		},
+		{
+			"turn": 28,
+			"text": "What am I supposed to do?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				25
+			]
+		},
+		{
+			"turn": 29,
+			"text": "You can say no?",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				27
+			]
+		},
+		{
+			"turn": 30,
+			"text": "You know I can't say no.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				29,
+				25,
+				23
+			]
+		},
+		{
+			"turn": 31,
+			"text": "You could.  You really could.  You could-- --get into another line of work.  I could start working after Anna's born?",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				30
+			]
+		},
+		{
+			"turn": 32,
+			"text": "The last guy who said no was fired.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				31
+			]
+		},
+		{
+			"turn": 33,
+			"text": "I put in fifteen years in this job.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				31
+			]
+		},
+		{
+			"turn": 34,
+			"text": "I know.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				30,
+				32
+			]
+		},
+		{
+			"turn": 35,
+			"text": "I'm so close.  Five more years and I retire-",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				32
+			]
+		},
+		{
+			"turn": 36,
+			"text": "and we'll have that happy life.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				32
+			]
+		},
+		{
+			"turn": 37,
+			"text": "and watch our child grow, see her take her first steps, her first words.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				36
+			]
+		},
+		{
+			"turn": 38,
+			"text": "Honey after a year I can be back.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				37,
+				36
+			]
+		},
+		{
+			"turn": 39,
+			"text": "You said two years.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				38,
+				37,
+				36
+			]
+		},
+		{
+			"turn": 40,
+			"text": "They want me there two years but I could probably get",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				39,
+				38,
+				37
+			]
+		},
+		{
+			"turn": 41,
+			"text": "maybe get some vacation-- --once it quiets down there.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				40,
+				39,
+				38
+			]
+		},
+		{
+			"turn": 42,
+			"text": "A whole year? --We're not talking about like a couple months here.  I mean this is a whole year.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				41
+			]
+		},
+		{
+			"turn": 43,
+			"text": "I know.  I know.  But they really need some good guys there.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				42
+			]
+		},
+		{
+			"turn": 44,
+			"text": "What could happen in a year?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				41
+			]
+		},
+		{
+			"turn": 45,
+			"text": "And this isn't the first time you know?  I mean you always...sending you off to different places and...",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				45
+			]
+		},
+		{
+			"turn": 46,
+			"text": "Well that's the kind of work I'm in honey.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				44,
+				42,
+				45
+			]
+		},
+		{
+			"turn": 47,
+			"text": "I don't know if that's how I want to live my life.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				47,
+				45
+			]
+		},
+		{
+			"turn": 48,
+			"text": "It's just going to be--it's going to go faster than you think.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				47,
+				45
+			]
+		},
+		{
+			"turn": 49,
+			"text": "Joe I'm serious I don't want to have to have a little girl to tell...asking every day where's daddy, where's daddy and have to tell her that he's away--",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				47,
+				49
+			]
+		},
+		{
+			"turn": 50,
+			"text": "far away and he won't be here.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				47,
+				49
+			]
+		},
+		{
+			"turn": 51,
+			"text": "You tell her-- [BREATHING]",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				49
+			]
+		},
+		{
+			"turn": 52,
+			"text": "I'm done.  I can't honey.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				47,
+				49
+			]
+		},
+		{
+			"turn": 53,
+			"text": "What do you mean?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				49,
+				52
+			]
+		},
+		{
+			"turn": 54,
+			"text": "It's over.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				52,
+				49,
+				48
+			]
+		},
+		{
+			"turn": 55,
+			"text": "Honey I can't do it anymore.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				54
+			]
+		},
+		{
+			"turn": 56,
+			"text": "I need you here.  Anna needs you.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				54
+			]
+		},
+		{
+			"turn": 57,
+			"text": "So I have--you want me to choose between you guys or my career?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				57,
+				56,
+				55
+			]
+		},
+		{
+			"turn": 58,
+			"text": "yeah.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				56,
+				55,
+				54
+			]
+		},
+		{
+			"turn": 59,
+			"text": "What am I going to do?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				57,
+				55
+			]
+		},
+		{
+			"turn": 60,
+			"text": "Priorities honey, priorities.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				59,
+				57
+			]
+		},
+		{
+			"turn": 61,
+			"text": "I want to--what am I going to do if I leave this job?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				57
+			]
+		},
+		{
+			"turn": 62,
+			"text": "You're smart.  You could go back to school--",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				57,
+				61
+			]
+		},
+		{
+			"turn": 63,
+			"text": "finish your Master's that you were started never finished.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				57,
+				61
+			]
+		},
+		{
+			"turn": 64,
+			"text": "Fine.  I'll see if I can talk to them.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				63,
+				51,
+				59
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "I don't want you to go.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				1
+			]
+		},
+		{
+			"turn": 2,
+			"text": "I know, I know. I don't want to go either baby. I love you know. And I'm going to miss you a lot.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				1,
+				2
+			]
+		},
+		{
+			"turn": 3,
+			"text": "I'm going to miss you too; I don't know what I'm going to do here without you. It's going to be so lonely, and so hard.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				3
+			]
+		},
+		{
+			"turn": 4,
+			"text": "I don't want to be a single mom.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				3,
+				4
+			]
+		},
+		{
+			"turn": 5,
+			"text": "You won't be. I'll be back; I'll be back before you know it. All right, and",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 6,
+			"text": "but",
+			"speaker": "F",
+			"emotion": 1
+		},
+		{
+			"turn": 7,
+			"text": "and",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				5
+			]
+		},
+		{
+			"turn": 8,
+			"text": "It's dangerous; I mean how can you make sure that you'll",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				4,
+				8
+			]
+		},
+		{
+			"turn": 9,
+			"text": "It's- It's dangerous anywhere, honey. I mean this is -this- I'm just going to go and we'll get it over with,",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 10,
+			"text": "I hope so.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 11,
+			"text": "I hope so.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 12,
+			"text": "It's going to be really rough.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 13,
+			"text": "You gotta take care of our baby for me, alright?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				12
+			]
+		},
+		{
+			"turn": 14,
+			"text": "I'll send you lots of pictures.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				12
+			]
+		},
+		{
+			"turn": 15,
+			"text": "I hope so, because I'm not going to be able to survive without all that. I don't know what I'm going to do.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				15
+			]
+		},
+		{
+			"turn": 16,
+			"text": "I've never been - I've never been away from you for two weeks let alone a year.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				16,
+				15
+			]
+		},
+		{
+			"turn": 17,
+			"text": "Well, just promise me that you going to be safe.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				16
+			]
+		},
+		{
+			"turn": 18,
+			"text": "I mean can't they put you in like, you know kitchen work or something where you won't get",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				18,
+				17
+			]
+		},
+		{
+			"turn": 19,
+			"text": "It doesn't make any sense; I don't know why we have to be at war in the first place.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				19,
+				18
+			]
+		},
+		{
+			"turn": 20,
+			"text": "there's people that thought it was the right thing to do so now we have to- we have to do what we have to do for our country",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				20
+			]
+		},
+		{
+			"turn": 21,
+			"text": "and it'll work out you know, go there and do that. Yeah, I'll be back",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 22,
+			"text": "Will you write me letters, paper ones?",
+			"speaker": "F",
+			"emotion": 1
+		},
+		{
+			"turn": 23,
+			"text": "Our baby needs a dad; you can't leave. Okay, you can't disappear.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				23
+			]
+		},
+		{
+			"turn": 24,
+			"text": "Our baby has a dad, alright. Daddy is going to be back soon.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				23
+			]
+		},
+		{
+			"turn": 25,
+			"text": "I want you to, you know, take lots of video; pictures and I can see you when I get back or while I'm there. I'm going to miss you.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				25
+			]
+		},
+		{
+			"turn": 26,
+			"text": "I'll miss you too.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				25,
+				26
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "How you doing?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 2,
+			"text": "Okay.",
+			"speaker": "F",
+			"emotion": 1
+		},
+		{
+			"turn": 3,
+			"text": "Yeah. Wow.",
+			"speaker": "F",
+			"emotion": 1
+		},
+		{
+			"turn": 4,
+			"text": "We're all going to miss him.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 5,
+			"text": "Mmm hmm. I never knew it was going to be this hard, you know.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				5
+			]
+		},
+		{
+			"turn": 6,
+			"text": "It's weird 'cause it's like you expected it to happen and eventually-",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				6
+			]
+		},
+		{
+			"turn": 7,
+			"text": "he had cancer, you know?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				7
+			]
+		},
+		{
+			"turn": 8,
+			"text": "They thought he got--would get better and he did, and then it just- things turned bad.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				8,
+				7
+			]
+		},
+		{
+			"turn": 9,
+			"text": "Turned around for the worst, you know.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				7,
+				8,
+				6
+			]
+		},
+		{
+			"turn": 10,
+			"text": "I didn't know him, Tricia, but uh- I heard that he was a great man.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				7,
+				8
+			]
+		},
+		{
+			"turn": 11,
+			"text": "He was amazing.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"turn": 12,
+			"text": "I loved that boy.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"turn": 13,
+			"text": "We did everything together, you know.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"turn": 14,
+			"text": "It's weird, I think. I feel so alone, you know? What am I going to do now? Now that he's gone.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 15,
+			"text": "He's so young. It seems so--",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 16,
+			"text": "so wrong in so many ways.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 17,
+			"text": "His poor parents. You know, it's their only son.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 18,
+			"text": "yeah.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 19,
+			"text": "Kind of a whole year. I mean, he suffered with this, this monster, this thing, this disease.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				19,
+				14
+			]
+		},
+		{
+			"turn": 20,
+			"text": "He was in chemo the whole time, right?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 21,
+			"text": "And he just got that baseball scholarship.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 22,
+			"text": "I know. He was, he had so much going for him.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				20
+			]
+		},
+		{
+			"turn": 23,
+			"text": "So handsome, so young, so gifted.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 24,
+			"text": "So talented.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 25,
+			"text": "Such a sweet person, you know?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 26,
+			"text": "How's his parents doing?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 27,
+			"text": "Not very good.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				26,
+				27
+			]
+		},
+		{
+			"turn": 28,
+			"text": "Can you imagine, though, you know, as a parent, just losing a kid? Twenty-two years old.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				28
+			]
+		},
+		{
+			"turn": 29,
+			"text": "It's weird, I kind of feel like part of me is gone now, you know?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				28,
+				29
+			]
+		},
+		{
+			"turn": 30,
+			"text": "Because this other half was just kind of like ripped away.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				28,
+				29,
+				30
+			]
+		},
+		{
+			"turn": 31,
+			"text": "You guys were pretty close, weren't you?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				30,
+				29
+			]
+		},
+		{
+			"turn": 32,
+			"text": "He was like, he was like my brother, you know.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				30,
+				29
+			]
+		},
+		{
+			"turn": 33,
+			"text": "He was my brother.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				30,
+				29
+			]
+		},
+		{
+			"turn": 34,
+			"text": "Just seems so unfair, is the way it is.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				34,
+				30,
+				29
+			]
+		},
+		{
+			"turn": 35,
+			"text": "You know, he had that really pretty girlfriend for like about a year and-",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				35,
+				30
+			]
+		},
+		{
+			"turn": 36,
+			"text": "What was her name?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				35,
+				30
+			]
+		},
+		{
+			"turn": 37,
+			"text": "Kelly. Kelly Uveny.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				35,
+				30
+			]
+		},
+		{
+			"turn": 38,
+			"text": "They talked about getting married and--",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				35,
+				30
+			]
+		},
+		{
+			"turn": 39,
+			"text": "Trying to have a baby.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				35,
+				30
+			]
+		},
+		{
+			"turn": 40,
+			"text": "Yeah. But then when he got cancer and it got bad, you know, she just took off and-",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				40
+			]
+		},
+		{
+			"turn": 41,
+			"text": "so I was there for him.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				40
+			]
+		},
+		{
+			"turn": 42,
+			"text": "Some people.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				40
+			]
+		},
+		{
+			"turn": 43,
+			"text": "Yeah, but you were there all the hospital days. By his bed-",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				40
+			]
+		},
+		{
+			"turn": 44,
+			"text": "Yeah. God, I loved that kid.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				44,
+				40
+			]
+		},
+		{
+			"turn": 45,
+			"text": "So nice, so positive.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				44,
+				40
+			]
+		},
+		{
+			"turn": 46,
+			"text": "yeah.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				44,
+				40
+			]
+		},
+		{
+			"turn": 47,
+			"text": "We need more people like him.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				44,
+				40
+			]
+		},
+		{
+			"turn": 48,
+			"text": "Joe, do you think he knew I loved him?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				44,
+				40
+			]
+		},
+		{
+			"turn": 49,
+			"text": "I don't know.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				44,
+				40
+			]
+		},
+		{
+			"turn": 50,
+			"text": "I never told him, I love you, but-",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				44,
+				40
+			]
+		},
+		{
+			"turn": 51,
+			"text": "I loved him so much.",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				50,
+				44,
+				40
+			]
+		},
+		{
+			"turn": 52,
+			"text": "I don't know if Benny was smart like that- but-",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				44,
+				40
+			]
+		},
+		{
+			"turn": 53,
+			"text": "I'm sure he loved you too. He just didn't know it.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				44,
+				40
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "Oh, um-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 2,
+			"text": "What's wrong?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 3,
+			"text": "You didn't fill this out right. All right. It says that you have to fill out the back sheet of this, but you filled out the yellow sheet of it.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 4,
+			"text": "No, no, no, no, no, no. The lady over there, she told me to fill out the front and she said to wait in this line.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				3,
+				4
+			]
+		},
+		{
+			"turn": 5,
+			"text": "Who?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 6,
+			"text": "I don't know. Some lady. Sonya or something.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				6,
+				4,
+				5
+			]
+		},
+		{
+			"turn": 7,
+			"text": "She- she probably doesn't even work here.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 8,
+			"text": "Excuse me? No, no. I waited in the line over there..",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				7
+			]
+		},
+		{
+			"turn": 9,
+			"text": "All right  Uh-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 10,
+			"text": "and she told me to come over here and she said to fill out everything on the application and I did that.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				10,
+				8
+			]
+		},
+		{
+			"turn": 11,
+			"text": "It's not right.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				10
+			]
+		},
+		{
+			"turn": 12,
+			"text": "Look, I-- No, no, no, I--you don't understand. I have to go back to work.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				11
+			]
+		},
+		{
+			"turn": 13,
+			"text": "You just take--all right.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				12
+			]
+		},
+		{
+			"turn": 14,
+			"text": "Well, you didn't fill this paper at work out right and it's going to take another fifteen minutes to do it and look at how long the line we got here so just-",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 15,
+			"text": "I am not-",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 16,
+			"text": "okay, just go back and fill it out real quick and I'm sorry, you have to get back in line and wait. I can't let you cut.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				16,
+				15
+			]
+		},
+		{
+			"turn": 17,
+			"text": "But you don't understand. I cannot get back in line because I have to go back to work. I will get fired if I don't leave here.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				16,
+				17
+			]
+		},
+		{
+			"turn": 18,
+			"text": "[LAUGHTER]",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				17
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "Next.",
+			"speaker": "F",
+			"emotion": 3
+		},
+		{
+			"turn": 2,
+			"text": "Yes, me. Okay, okay here we go.",
+			"speaker": "M",
+			"emotion": 5
+		},
+		{
+			"turn": 3,
+			"text": "My window is open.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 4,
+			"text": "Okay, so filled out all these forms  --",
+			"speaker": "M",
+			"emotion": 5
+		},
+		{
+			"turn": 5,
+			"text": "and I have This form of ID here so...",
+			"speaker": "M",
+			"emotion": 5
+		},
+		{
+			"turn": 6,
+			"text": "Yes, Jones.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 7,
+			"text": "What are you... what's...What are you applying for?",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				5,
+				4
+			]
+		},
+		{
+			"turn": 8,
+			"text": "I'm just applying for another ID.",
+			"speaker": "M",
+			"emotion": 5
+		},
+		{
+			"turn": 9,
+			"text": "Yes.  I'm supposed to have three forms of ID for this.  It's a long story, I'm supposed to have three forms of ID for this other job I really don't get into but I need another...",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 10,
+			"text": "I have it right here, yes.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 11,
+			"text": "No, I need your ID to give you a second ID.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				11,
+				9
+			]
+		},
+		{
+			"turn": 12,
+			"text": "It's really simple if you have a problem with it... Maybe you should--",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				11,
+				9
+			]
+		},
+		{
+			"turn": 13,
+			"text": "But that's...",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				11,
+				12
+			]
+		},
+		{
+			"turn": 14,
+			"text": "That's why I'm here, that's why I was waiting in this line.  I need to get another form of ID.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				11,
+				14
+			]
+		},
+		{
+			"turn": 15,
+			"text": "No, I don't have a passport.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 16,
+			"text": "You have a birth certificate?",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				14,
+				15
+			]
+		},
+		{
+			"turn": 17,
+			"text": "I don't where it is though, I don't have with me.  Can I get it from somewhere?  I mean...",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 18,
+			"text": "What do you expect me to do?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				18,
+				17
+			]
+		},
+		{
+			"turn": 19,
+			"text": "I probably have to go wait another line to get my birth certificate don't I?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 20,
+			"text": "Probably.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				18
+			]
+		},
+		{
+			"turn": 21,
+			"text": "You're very helpful.  What's your name?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 22,
+			"text": "So can you help me or not?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 23,
+			"text": "I am..I don't..I don't understand what you want.  A driver's license or a California ID.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				23
+			]
+		},
+		{
+			"turn": 24,
+			"text": "Okay. [BREATHING]",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				23,
+				19,
+				18
+			]
+		},
+		{
+			"turn": 25,
+			"text": "I need California ID.",
+			"speaker": "M",
+			"emotion": 5
+		},
+		{
+			"turn": 26,
+			"text": "On top of these other two forms of ID which I already have.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 27,
+			"text": "No, I don't have driver's license.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				23
+			]
+		},
+		{
+			"turn": 28,
+			"text": "Did you even look at the form?  I filled it out all these questions--",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				28
+			]
+		},
+		{
+			"turn": 29,
+			"text": "Don't raise your voice with me.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				29
+			]
+		},
+		{
+			"turn": 30,
+			"text": "Don't talk to me like I'm a child.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				30
+			]
+		},
+		{
+			"turn": 31,
+			"text": "Okay.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				30,
+				29
+			]
+		},
+		{
+			"turn": 32,
+			"text": "Do you know how long I've been working here? How long have you lived in California?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				30,
+				29
+			]
+		},
+		{
+			"turn": 33,
+			"text": "If it makes you stop acting like a child.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				32,
+				33
+			]
+		},
+		{
+			"turn": 34,
+			"text": "Maybe you never been to the D.M.V. before, maybe you should get back in line.  You know what?  sit in line again and if you get my number ask for different one.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				33,
+				34
+			]
+		},
+		{
+			"turn": 35,
+			"text": "I am not...I'm not getting to back that line.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				35,
+				34
+			]
+		},
+		{
+			"turn": 36,
+			"text": "Okay, okay let's keep our voices down, okay?  I didn't come here to get in yelling match.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				36,
+				35
+			]
+		},
+		{
+			"turn": 37,
+			"text": "I did not come in here to get in a yelling match with you, all right?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				37,
+				36
+			]
+		},
+		{
+			"turn": 38,
+			"text": "Uh huh.  I didn't come here get in yelling match either.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 39,
+			"text": "Just try and help me.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				37
+			]
+		},
+		{
+			"turn": 40,
+			"text": "They don't pay me enough to deal people like you.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 41,
+			"text": "Why?",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				40
+			]
+		},
+		{
+			"turn": 42,
+			"text": "Why, because I'm sick of talking to you.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				42
+			]
+		},
+		{
+			"turn": 43,
+			"text": "'Cause you're obviously not talking to me, you're just yelling at me, berating me and telling me I can't fill out forms right.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				43
+			]
+		},
+		{
+			"turn": 44,
+			"text": "Oh, no honey. And you're going to miss the Christmas card too. It's a shame. It's going to be a good, nice picture.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				43
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "So what's up?  What's new?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 2,
+			"text": "Well Vegas was awesome.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 3,
+			"text": "Yeah.  I heard.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 4,
+			"text": "And, um, I got married.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 5,
+			"text": "Yeah.  In the old town part.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 6,
+			"text": "Who did you marry?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 7,
+			"text": "Um- Yes.  It was very romantic.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				7
+			]
+		},
+		{
+			"turn": 8,
+			"text": "It was at the slot machines.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				7,
+				4
+			]
+		},
+		{
+			"turn": 9,
+			"text": "Uhuh, uhuh.  He won big and he-and he realized that the only thing that would make it better was me as his bride.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				9,
+				7,
+				4
+			]
+		},
+		{
+			"turn": 10,
+			"text": "He turned to you and was like...",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 11,
+			"text": "Hey.  Let's get married and I said okay.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				11,
+				9
+			]
+		},
+		{
+			"turn": 12,
+			"text": "[LAUGHTER] That's really romantic.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				11,
+				12
+			]
+		},
+		{
+			"turn": 13,
+			"text": "Yeah.  Well.  You know, because he's leaving the next day.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 14,
+			"text": "Yeah.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 15,
+			"text": "But we're going to have a honeymoon cruise.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				15
+			]
+		},
+		{
+			"turn": 16,
+			"text": "Does that mean that you're going to get citizenship, too, in- in England or whatever?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 17,
+			"text": "Oh.  I hadn't even thought about that.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				16,
+				15
+			]
+		},
+		{
+			"turn": 18,
+			"text": "He's not going to be a citizen, though.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				16,
+				15
+			]
+		},
+		{
+			"turn": 19,
+			"text": "Yeah.  But he'll have like a long visa.  Can you go visit then for a long time?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 20,
+			"text": "Oh.  Totally.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				19
+			]
+		},
+		{
+			"turn": 21,
+			"text": "Oh, how are you going to do the long distance thing?  So wait, are you going to move there?",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				21,
+				19
+			]
+		},
+		{
+			"turn": 22,
+			"text": "I guess I'll-  I guess I'll have an internet husband.[LAUGHTER]",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				21,
+				22
+			]
+		},
+		{
+			"turn": 23,
+			"text": "Like you need another one of those.[LAUGHTER]",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				21,
+				22,
+				23
+			]
+		},
+		{
+			"turn": 24,
+			"text": "I have an internet boyfriend.  I guess I'll have to juggle the two.  Is that cheating?  I don't know. Hmm.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				24,
+				22,
+				23
+			]
+		},
+		{
+			"turn": 25,
+			"text": "Is that your phone?",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				24,
+				22
+			]
+		},
+		{
+			"turn": 26,
+			"text": "Yeah, so [LAUGHTER] He's calling me now",
+			"speaker": "F",
+			"emotion": 4,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 27,
+			"text": "He loves you.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				25,
+				26,
+				27
+			]
+		},
+		{
+			"turn": 28,
+			"text": "He likes to keep tabs, you know.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				26,
+				27
+			]
+		},
+		{
+			"turn": 29,
+			"text": "How much did he win at the slot?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 30,
+			"text": "Uh, I think seven hundred and fifty dollars.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 31,
+			"text": "Penny slots. That's what he plays.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 32,
+			"text": "Yeah.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 33,
+			"text": "I'm a big fan of the Wheel of Fortune quarters. But it just costs so much.  I don't know.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 34,
+			"text": "Yeah.  We played Wheel of Fortune pennies.  It's like a giant thing with like-",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				34
+			]
+		},
+		{
+			"turn": 35,
+			"text": "But the pennies always get you because you end up spending like, you know, fifty bucks.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 36,
+			"text": "Fifty bucks. Mmhmm.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 37,
+			"text": "like, wait, but it's just pennies.  You're like, wait a minute I'm on to you.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 38,
+			"text": "Yeah.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 39,
+			"text": "Well so now we're married. We have cat children.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				39
+			]
+		},
+		{
+			"turn": 40,
+			"text": "Awesome.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				39
+			]
+		},
+		{
+			"turn": 41,
+			"text": "[LAUGHTER] Cat babies.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				41,
+				39
+			]
+		},
+		{
+			"turn": 42,
+			"text": "We renamed Brenda, Lumber Janet.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				41,
+				42,
+				40
+			]
+		},
+		{
+			"turn": 43,
+			"text": "That's fair enough.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 44,
+			"text": "She needs a new name each state that we go into. [LAUGHTER]",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				44
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "Hi.",
+			"speaker": "F",
+			"emotion": 5
+		},
+		{
+			"turn": 2,
+			"text": "Hi.  Thanks for waiting.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 3,
+			"text": "Yeah. This is the fourth line that I have been in.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				3
+			]
+		},
+		{
+			"turn": 4,
+			"text": "Can I help you?",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 5,
+			"text": "Uh huh.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 6,
+			"text": "I need my bag.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				6
+			]
+		},
+		{
+			"turn": 7,
+			"text": "Okay.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 8,
+			"text": "I flew in over three hours ago, I've been in four different lines.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				6,
+				8
+			]
+		},
+		{
+			"turn": 9,
+			"text": "Okay.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 10,
+			"text": "I waited the entire baggage- I waited for the whole baggage carousel four times.  They told me to go to the next one.  I waited through that for three planes and now I'm here.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				10
+			]
+		},
+		{
+			"turn": 11,
+			"text": "Okay.  Great.  I'm really sorry that you had to do that.  What's your last name?  Let's start there.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 12,
+			"text": "Nash.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				10,
+				6,
+				8
+			]
+		},
+		{
+			"turn": 13,
+			"text": "Okay.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 14,
+			"text": "all right- okay.  And you lost your bag? Is that- that the issue?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 15,
+			"text": "Yes.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				10,
+				14,
+				8
+			]
+		},
+		{
+			"turn": 16,
+			"text": "Flight seven fourteen.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				10,
+				14,
+				8
+			]
+		},
+		{
+			"turn": 17,
+			"text": "Uh-huh.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 18,
+			"text": "Am I going to be getting, like, free tickets, free mileage. When can I expect my bag here?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				18
+			]
+		},
+		{
+			"turn": 19,
+			"text": "Yeah. Yeah, I don't see- I don't see any--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 20,
+			"text": "I don't see any record of it, and I-usually when I don't see a record of it, that means um-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 21,
+			"text": "we've mistakenly lost your baggage.  We're very sorry.  On behalf of Jet Blue I would like to apologize for any inconvenience.  I am allowed to issue you a fifty dollar gift card which you can use any future flights you want to take with us.  I'm very sorry, once again...",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 22,
+			"text": "for such an inconvenience and your bag, but",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 23,
+			"text": "Is this a joke?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				21,
+				20
+			]
+		},
+		{
+			"turn": 24,
+			"text": "Yeah.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 25,
+			"text": "No, no.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 26,
+			"text": "Are there candid cameras?  Is this that movie? There's that show, right?  Airplane, airline.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				21,
+				20
+			]
+		},
+		{
+			"turn": 27,
+			"text": "No, no.  This is real.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 28,
+			"text": "No.  I'm just giving you money, the bag is gone.  If it's not here, I'm really sorry there is nothing I can do because...",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 29,
+			"text": "this is the only track record that we have and if it's not listed here then it's probably not anywhere.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 30,
+			"text": "You're kidding me, this is a joke.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				29,
+				28
+			]
+		},
+		{
+			"turn": 31,
+			"text": "Do you have any idea-- fifty dollars?  That's supposed to replace everything that I have?  Do you understand how much I have packed in there? Not only does it have sentimental value; it can't be replaced like that.  It was incredibly expensive.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				31,
+				29,
+				28
+			]
+		},
+		{
+			"turn": 32,
+			"text": "Yes.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 33,
+			"text": "I know.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 34,
+			"text": "We flew in from Paris.  I've been shopping for three weeks.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				31,
+				34
+			]
+		},
+		{
+			"turn": 35,
+			"text": "I don't care what you're freaking sign says.  Somebody- Somebody needs to replace everything I've got there and give me money for my inconvenience.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				31,
+				35
+			]
+		},
+		{
+			"turn": 36,
+			"text": "Okay. Calm-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 37,
+			"text": "Actually, we are not necessarily liable to give you- to even give you this fifty dollars so... it's actually- it's actually really",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 38,
+			"text": "Do you understand who my husband is?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				37
+			]
+		},
+		{
+			"turn": 39,
+			"text": "If you're- if you're- if you're looking for a lawsuit, baby, you've found it.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				37,
+				35
+			]
+		},
+		{
+			"turn": 40,
+			"text": "We are actually not even allowed--  you know, like we don't have to give you this fifty dollars.  We don't have to do that.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 41,
+			"text": "Oh-Oh.  It's a gift.  You're-You're helping me out here?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				40
+			]
+		},
+		{
+			"turn": 42,
+			"text": "It's a gift.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 43,
+			"text": "You know, the airlines can not be held responsible for every bag of luggage that comes through here.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 44,
+			"text": "You are cruising for a bruising.  You are in so much trouble.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				43,
+				40
+			]
+		},
+		{
+			"turn": 45,
+			"text": "With the amount of--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 46,
+			"text": "Who's in charge?  Who is the president of Jet Blue?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				43,
+				40
+			]
+		},
+		{
+			"turn": 47,
+			"text": "Um, actually, I don't know. I don't know. Oh really?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 48,
+			"text": "Because I probably know him.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				47
+			]
+		},
+		{
+			"turn": 49,
+			"text": "Yeah.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				47
+			]
+		},
+		{
+			"turn": 50,
+			"text": "Well then maybe you can just call him and he can give you more money.  But right now all I can do--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 51,
+			"text": "I don't want money, I want my clothes.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				51
+			]
+		},
+		{
+			"turn": 52,
+			"text": "Right now all I can do is just give you this fifty dollars, I'm really sorry.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 53,
+			"text": "What's your name?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				52,
+				51
+			]
+		},
+		{
+			"turn": 54,
+			"text": "Oh.  My name is Sean. Hi.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 55,
+			"text": "Okay.  I'll do that.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				52
+			]
+		},
+		{
+			"turn": 56,
+			"text": "I don't think you have done everything you could do because I don't have my bag here yet.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				56
+			]
+		},
+		{
+			"turn": 57,
+			"text": "If you want, you can write a letter.  I can give you the address. Yes.  An angry--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 58,
+			"text": "A letter? I'll make a personal phone call.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				57,
+				56
+			]
+		},
+		{
+			"turn": 59,
+			"text": "Or you can make a phone call.  But I think a letter might be a little more-- in my impression, letters have more...",
+			"speaker": "M",
+			"emotion": 0
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "What time is it?  They're supposed to run around midnight.",
+			"speaker": "M",
+			"emotion": 4
+		},
+		{
+			"turn": 2,
+			"text": "This is great, isn't it?  Look at the night we've got here, couldn't be better.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 3,
+			"text": "I would have liked to have gone a little further up the coast to get away from the lights and the people, but I was afraid we'd miss it.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				3,
+				2
+			]
+		},
+		{
+			"turn": 4,
+			"text": "How you doing?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				3,
+				2
+			]
+		},
+		{
+			"turn": 5,
+			"text": "Is that--no--is that just foam?  I can't even tell.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				2,
+				3
+			]
+		},
+		{
+			"turn": 6,
+			"text": "Well, I guess we can tell, it probably isn't right?  Probably be unmistakable don't you think?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				5,
+				2,
+				3
+			]
+		},
+		{
+			"turn": 7,
+			"text": "How you doing?  Aw, you know what I forgot?  I forgot to bring my flashlight.  Oh, how could I be so stupid?  I should've brought my flashlight.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				6,
+				5,
+				2
+			]
+		},
+		{
+			"turn": 8,
+			"text": "What flashlight?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 9,
+			"text": "Oh, well sure.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 10,
+			"text": "Right, of course.  Our flashlight.  Mine and yours.  I mean, me flashlight is su flashlight naturally.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 11,
+			"text": "I wonder, do they always run during a full moon?  I can't remember if it was full last year.  Do you remember?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 12,
+			"text": "Yeah.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 13,
+			"text": "You cold?  Do you want my jacket?  Oh, we should've brought the blanket.  Our blanket.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 14,
+			"text": "This is great, isn't it?  A six pack would be just the ticket right now.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 15,
+			"text": "I can't believe I forgot.  I'm like a kid.  It's amazing I got out of the house with my fly zipped.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				14
+			]
+		},
+		{
+			"turn": 16,
+			"text": "You think they can hear us talk?  Or feel the vibrations in the sand when we move around?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				16
+			]
+		},
+		{
+			"turn": 17,
+			"text": "Do you want my jacket?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 18,
+			"text": "It's after eleven, let's just go home.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				18
+			]
+		},
+		{
+			"turn": 19,
+			"text": "Right.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 20,
+			"text": "That's my point too.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 21,
+			"text": "No. No. That's not my point.  The point is there's no point in coming down if we just leave.  Don't you want to see it?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 22,
+			"text": "Think about the people in Kansas, they had to get plane tickets and hotel reservations to see this.  We live forty minutes away.  It's too good to pass up.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				22
+			]
+		},
+		{
+			"turn": 23,
+			"text": "Pass up what?  These little fish swim onto the beach, they flop around, and swim away.  And then they die.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				18
+			]
+		},
+		{
+			"turn": 24,
+			"text": "Yeah, but that moment on the beach, is the highlight of their little lives.  All that flopping is laying eggs or what do you--spawning or mating.  I mean,",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				24
+			]
+		},
+		{
+			"turn": 25,
+			"text": "this is a big night for these guys.  Life's last orgy.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				25,
+				24
+			]
+		},
+		{
+			"turn": 26,
+			"text": "What are you so excited about?  I mean, it's not a moon landing we're talking about here.  It's fish.  It's a fish nobody even eats.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 27,
+			"text": "Yeah they do.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 28,
+			"text": "Ah, Augie.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 29,
+			"text": "Alright.  But it's fish that do something that none of the other fish do.  Like the swallows returning to Capistrano or the lemmings throwing themselves off the cliffs.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				29
+			]
+		},
+		{
+			"turn": 30,
+			"text": "I'm just not.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				26,
+				23
+			]
+		},
+		{
+			"turn": 31,
+			"text": "I don't get it.  The first time we came here, you said it was the best night of your life.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 32,
+			"text": "Last year, you will also remember our shoes got wet, I got sand in my panties, you got a sore throat, we got in a big fight over nothing, and we didn't see the grunions.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				32
+			]
+		},
+		{
+			"turn": 33,
+			"text": "We weren't in a good spot.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 34,
+			"text": "We didn't see them the first time either.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 35,
+			"text": "There is that--no that's just seaweed isn't it?",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				35
+			]
+		},
+		{
+			"turn": 36,
+			"text": "Oh man, this is great, isn't it?  I wouldn't miss this for anything.  Here, think about this, all right, I know you're not interested, but think about this.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				36
+			]
+		},
+		{
+			"turn": 37,
+			"text": "all as one, this time release instinctual little firecracker went off and they all turned and formed a line as long as the California coast and started swimming.  And they're swimming right now as if that's all that matters.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				37,
+				36
+			]
+		},
+		{
+			"turn": 38,
+			"text": "It's like single mindedness with no mind.  It's urgency that's pure urge.  They don't know what drives them.  They don't ask it a question or give it a name.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				37,
+				38
+			]
+		},
+		{
+			"turn": 39,
+			"text": "They just turn as one and start the swim that brings them right here to where we stand, for a massive celebration of sex and death.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				39,
+				37,
+				38
+			]
+		},
+		{
+			"turn": 40,
+			"text": "Ah, God, I'm giving myself goose bumps.  Look, all my hairs are popped up.",
+			"speaker": "M",
+			"emotion": 4,
+			"cause": [
+				40
+			]
+		},
+		{
+			"turn": 41,
+			"text": "Well, so what do you think?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 42,
+			"text": "About what?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 43,
+			"text": "What I was saying.",
+			"speaker": "M",
+			"emotion": 0
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "Hi, um, excuse me, I believe that the airline lost my baggage.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 2,
+			"text": "Um, okay, it didn't--didn't come out on the carrousel--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 3,
+			"text": "No, it didn't. um It didn't come out and I don't see it anywhere around here, so what can you do about that?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 4,
+			"text": "Okay.  Um, well, unfortunately yeah there was a some- some problems with the--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 5,
+			"text": "Uh, well some-some of the bags were--were lost on the way over here. uh-",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 6,
+			"text": "You know, I mean, there's a lot of things that go on under the plane and sometimes, you know, that kind of things happen.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 7,
+			"text": "Uh, But, we are willing to reimburse you for the bag and and for the contents--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 8,
+			"text": "How much?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 9,
+			"text": "Um, we'd be willing to give you uh fifty dollars for--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 10,
+			"text": "Right.  Uh We realize, you know, that that it's a bad situation, but I'm sorry, there's nothing that we can really do.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 11,
+			"text": "That's all, that's all, that's all you're going to do is just give me fifty dollars and say go have fun on your vacation without any of your stuff?",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				11,
+				10,
+				3
+			]
+		},
+		{
+			"turn": 12,
+			"text": "I think, um, maybe you can file a claim if you want and turn it in to our main office--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 13,
+			"text": "Yes, yes, I would like to file a claim, but what are you gonna--I mean, is it just gonna show up magically out of nowhere?",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				13
+			]
+		},
+		{
+			"turn": 14,
+			"text": "Right.  No.  I mean they- they might--they might--if you-if you are argue the case more, maybe they'll reimburse you more, but, right now--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 15,
+			"text": "Yes, I know. I know-. It's It's frustrating.  Unfortunately though-- um",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 16,
+			"text": "Because you don't seem to care very much, you know.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				16
+			]
+		},
+		{
+			"turn": 17,
+			"text": "By checking your bags, you--you, you know- admit to the liability that's- that's at risk--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 18,
+			"text": "I didn't sign anything.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				18,
+				17
+			]
+		},
+		{
+			"turn": 19,
+			"text": "Right, well, by checking in your bags, you agreed to, you know, at the will of the--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 20,
+			"text": "You paid for the flight and then your bags were checked at--it's a service that the airline provides for us.  So so, really, it's really the risk was taken and, I'm sorry, but there's really nothing else we can do.  So do you want--do you want the reimbursement?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 21,
+			"text": "[BREATHING] Well, sure, yeah, I guess I'll go buy dinner and then be--have nothing for the rest of my entire vacation.  I'm supposed to be here for three weeks.  What am I gonna do without anything for three weeks?",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				21
+			]
+		},
+		{
+			"turn": 22,
+			"text": "Well, there are-there are some shops here in- in the airport--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 23,
+			"text": "But fifty dollars isn't going to get me anything.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				21,
+				23
+			]
+		},
+		{
+			"turn": 24,
+			"text": "No, um, like I said you can file a claim and, uh, maybe get reimbursed for more-- you",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 25,
+			"text": "Isn't there anything else you can do?",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				25,
+				20
+			]
+		},
+		{
+			"turn": 26,
+			"text": "probably even talk to--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 27,
+			"text": "I mean, is there somebody you can call?  Or the guy that put the stuff on the--on the plane.  I mean, are they--they must be really irresponsible to have just disappeared my baggage.  I mean, did it get stolen?",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				27
+			]
+		},
+		{
+			"turn": 28,
+			"text": "Right, that--that gets taken care of-- That gets taken care of.  We get we do, you know, we investigate those and just make sure that um- they're not doing their own thing with them so--uh",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 29,
+			"text": "Yeah, I'm sure you -- You're like, hmm, do you take baggage?  No.  Oh, okay, thanks.  Great.  I mean how--",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				28
+			]
+		},
+		{
+			"turn": 30,
+			"text": "but Unfortunately sometimes is--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 31,
+			"text": "Well, that's--that's what I'm saying--",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 32,
+			"text": "There needs to be better security here.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				32,
+				27,
+				28
+			]
+		},
+		{
+			"turn": 33,
+			"text": "Okay.  Well that that could be something that you put on on the claim--on on the complaint form if you want.  And provide us with your information while you're here and then, maybe, if it turns up, then we'll send it right over.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 34,
+			"text": "It sounds like it's such a little like oh well no big deal whatever.  It's a big deal to me.",
+			"speaker": "F",
+			"emotion": 3,
+			"cause": [
+				33,
+				34
+			]
+		},
+		{
+			"turn": 35,
+			"text": "All right, Miss, I-I know.  I realize this. But Like I said, there are several people that are in your same situation, so, um, it's not--it's not totally uncommon and I'm actually gonna have to ask you to move so I can help the next person.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 36,
+			"text": "Well, can I at least have my fifty dollars, please?",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				35
+			]
+		},
+		{
+			"turn": 37,
+			"text": "Yes, all right.  There you go, now you can file a claim over to the left--And they'll help you out.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 38,
+			"text": "Thank you very much.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				35,
+				34
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "Can I help you sir?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 2,
+			"text": "I've been here for four hours and I don't know where one piece of my luggage is",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 3,
+			"text": "Okay.  Well let's...well I'm going to go ahead and check on that for you.  You're coming from...where are you coming from?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 4,
+			"text": "Baltimore.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 5,
+			"text": "Baltimore and this is a direct flight to LAX",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 6,
+			"text": "Yes.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 7,
+			"text": "Okay.  Let's look up here",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 8,
+			"text": "You know and they've looked it up before and it's not there.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 9,
+			"text": "Okay.  Well you um-...",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 10,
+			"text": "Now what are you going to do for me different? Hmm?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 11,
+			"text": "What I can do for you is uh we can uh report lost, lost property.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 12,
+			"text": "You can report lost property?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				11
+			]
+		},
+		{
+			"turn": 13,
+			"text": "Yes.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 14,
+			"text": "Okay.  I'm leaving LA tomorrow for San Diego, driving there.  So, I'm going to leave without all my lost property?  That's what you want me to do? um",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				11
+			]
+		},
+		{
+			"turn": 15,
+			"text": "Well sir, if if...what I believe has happened is most of the flight was left--",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 16,
+			"text": "the luggage was left in Baltimore.  Therefore--",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 17,
+			"text": "Most of the...",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				15
+			]
+		},
+		{
+			"turn": 18,
+			"text": "Like the luggage, the luggage on the flight.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 19,
+			"text": "No actually it was...this is the first time this has ever happened.  I don't know what happened--",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 20,
+			"text": "Are you going to refund us for our luggage, refund us for our tickets for this?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				19,
+				14,
+				11
+			]
+		},
+		{
+			"turn": 21,
+			"text": "Well, we can give you um- hotel lodging for a night if that--",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 22,
+			"text": "I'm going to San Diego tomorrow to stay with my family.  What do I need hotel lodging for hmmm?  Can you tell me that?",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				21
+			]
+		},
+		{
+			"turn": 23,
+			"text": "For tonight- For tonight sir.  Would you need to stay somewhere tonight?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 24,
+			"text": "We can do Holiday Inn or...?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 25,
+			"text": "Wow.  Thank you.  Holiday Inn.  Wow.  Thank...the flight cost five hundred dollars.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				24,
+				22,
+				21
+			]
+		},
+		{
+			"turn": 26,
+			"text": "Sir I understand that but just--",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 27,
+			"text": "Okay, so you can put me in Holiday Inn for twenty dollar a night?",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				24
+			]
+		},
+		{
+			"turn": 28,
+			"text": "Did you have your name tags on the luggage?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 29,
+			"text": "Of course I had my name tags on the luggage.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				28
+			]
+		},
+		{
+			"turn": 30,
+			"text": "Okay.  So if you can just give me your name, your name and your address and your phone number I can contact you as soon as we find out more information.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 31,
+			"text": "Soon as you...that's not good enough okay?",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				31,
+				30
+			]
+		},
+		{
+			"turn": 32,
+			"text": "Sir, please calm down.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				31
+			]
+		},
+		{
+			"turn": 33,
+			"text": "I need you to help me out here.  Can you get on the phone and get the luggage over on the fastest flight you can and then maybe I won't get you fired.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				32,
+				31,
+				27
+			]
+		},
+		{
+			"turn": 34,
+			"text": "If not, I'm going to get your name, I'm going to talk to your boss, whoever...I'm never going to fly...my business is never going to fly Delta again.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				34,
+				33,
+				31
+			]
+		},
+		{
+			"turn": 35,
+			"text": "What is your business?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 36,
+			"text": "I work for IBM.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 37,
+			"text": "Okay.  Sir?  I am sorry to tell you this but this does happen. Uh- This is not uh- really,",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 38,
+			"text": "I mean, our airline's fault.  I don't know what happened, misplaced, something happened but we will get you--",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 39,
+			"text": "You misplace a lot of, eight pieces of luggage.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				38
+			]
+		},
+		{
+			"turn": 40,
+			"text": "Well, the entire flight, sir, the luggage was placed on another plane that never actually left Baltimore.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 41,
+			"text": "Uh no I'm not.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 42,
+			"text": "Are you kidding me?",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				40
+			]
+		},
+		{
+			"turn": 43,
+			"text": "Who are you going to fire because of that?",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				40
+			]
+		},
+		{
+			"turn": 44,
+			"text": "Well we have some people back there that need some firing so, but I would just really appreciate--",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 45,
+			"text": "Wow.  This has never happened before.  I've not lost,",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				40
+			]
+		},
+		{
+			"turn": 46,
+			"text": "in all thousand flights I've been on probably I can't even count how many flights I've been on.  This has never happened before.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				40,
+				45
+			]
+		},
+		{
+			"turn": 47,
+			"text": "This is the worst customer service I've ever gotten before.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				46
+			]
+		},
+		{
+			"turn": 48,
+			"text": "Okay sir.  I'm sorry you can--um-",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				47
+			]
+		},
+		{
+			"turn": 49,
+			"text": "Okay.  Get on the phone and figure out where my luggage is and tell me when it's going to get there alright?",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				46
+			]
+		},
+		{
+			"turn": 50,
+			"text": "We already have been confirmed that it will be arriving in--uh--in about two days.",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				49
+			]
+		},
+		{
+			"turn": 51,
+			"text": "And and, in about...",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				50
+			]
+		},
+		{
+			"turn": 52,
+			"text": "Two days I'll be in San Diego and how's it going to get to me in San Diego?  You going to make sure it gets to the San Diego airport?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				50
+			]
+		},
+		{
+			"turn": 53,
+			"text": "Uh, we can't--",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				50
+			]
+		},
+		{
+			"turn": 54,
+			"text": "Can you get it to the San Diego airport?  You get someone to drive it to my place alright? Then I get a refund for some...I get a free flight alright? I get free whatever.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				54,
+				53,
+				52
+			]
+		},
+		{
+			"turn": 55,
+			"text": "Yes sir, Yes.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 56,
+			"text": "We can have them direct your luggage to San Diego.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 57,
+			"text": "Okay.  And you're going to give me what for my inconvenience?",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				56
+			]
+		},
+		{
+			"turn": 58,
+			"text": "Uh--",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 59,
+			"text": "Some refreshments in the lobby?",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 60,
+			"text": "Some peanuts?  Wow.  That helps a lot.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				59
+			]
+		},
+		{
+			"turn": 61,
+			"text": "Thanks you, thank you I don't have my luggage so you gave me a Holiday Inn stay and peanuts.  Wow.  You know what?",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				61
+			]
+		},
+		{
+			"turn": 62,
+			"text": "eh- we actually--",
+			"speaker": "F",
+			"emotion": 5,
+			"cause": [
+				61
+			]
+		},
+		{
+			"turn": 63,
+			"text": "I will never do business with Delta again.",
+			"speaker": "M",
+			"emotion": 3,
+			"cause": [
+				61
+			]
+		}
+	],
+	[
+		{
+			"turn": 1,
+			"text": "What?",
+			"speaker": "M",
+			"emotion": 3
+		},
+		{
+			"turn": 2,
+			"text": "I guess you know this is why I asked you to come.",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 3,
+			"text": "I guess this is why I came.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				2
+			]
+		},
+		{
+			"turn": 4,
+			"text": "Ann, I love you.  I love you a great deal.  I love you.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 5,
+			"text": "I have no imagination that's all I know to tell you.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 6,
+			"text": "I'm embarrassing you.  I didn't want to tell it to you here.  I",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				4
+			]
+		},
+		{
+			"turn": 7,
+			"text": "Chris, I've been ready a long, long time.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				7,
+				5
+			]
+		},
+		{
+			"turn": 8,
+			"text": "And he's gone forever.  You're sure?",
+			"speaker": "M",
+			"emotion": 0
+		},
+		{
+			"turn": 9,
+			"text": "You started to write me.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				9
+			]
+		},
+		{
+			"turn": 10,
+			"text": "Every day since.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				10,
+				9
+			]
+		},
+		{
+			"turn": 11,
+			"text": "I was waiting for you, Chris.  Till then you never wrote and then when you did what did you say.  I mean you sure can be ambiguous you know.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				11
+			]
+		},
+		{
+			"turn": 12,
+			"text": "Give me a kiss, Ann.  Give me a-God I kissed you.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				12
+			]
+		},
+		{
+			"turn": 13,
+			"text": "I kissed Annie.  How long, how long I've been waiting to kiss you.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				12
+			]
+		},
+		{
+			"turn": 14,
+			"text": "I'll never forgive you.  Why did you wait all these years?  All I've done is sit and wonder if I was crazy for thinking of you.",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				12,
+				14,
+				13
+			]
+		},
+		{
+			"turn": 15,
+			"text": "Annie, we're going to live now.  I'm going to make you so happy.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				14,
+				15
+			]
+		},
+		{
+			"turn": 16,
+			"text": "No, nothing like that.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				16
+			]
+		},
+		{
+			"turn": 17,
+			"text": "Yes.  I suppose I have been but it's going from me.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				17
+			]
+		},
+		{
+			"turn": 18,
+			"text": "I don't know where to start.",
+			"speaker": "M",
+			"emotion": 5,
+			"cause": [
+				18
+			]
+		},
+		{
+			"turn": 19,
+			"text": "There's so many things mixed up.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				19,
+				18
+			]
+		},
+		{
+			"turn": 20,
+			"text": "You remember overseas I was in command of a company?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				20
+			]
+		},
+		{
+			"turn": 21,
+			"text": "Yeah, sure.",
+			"speaker": "F",
+			"emotion": 0
+		},
+		{
+			"turn": 22,
+			"text": "Well I lost them.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				20,
+				22
+			]
+		},
+		{
+			"turn": 23,
+			"text": "How many?",
+			"speaker": "F",
+			"emotion": 1,
+			"cause": [
+				20,
+				22
+			]
+		},
+		{
+			"turn": 24,
+			"text": "Just about all.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				24,
+				22
+			]
+		},
+		{
+			"turn": 25,
+			"text": "It takes a lot of time to toss that off because they weren't just men.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				25
+			]
+		},
+		{
+			"turn": 26,
+			"text": "For instance, one time it had been raining several days and this kid came to me and gave me his last pair of dry socks.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				26
+			]
+		},
+		{
+			"turn": 27,
+			"text": "I put them in my pocket. that's only a little thing but these are the kind of guys I had.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				26,
+				27
+			]
+		},
+		{
+			"turn": 28,
+			"text": "They didn't die.  They killed themselves for each other.  I mean that exactly.  A little more selfish and they'd have been here today.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				28
+			]
+		},
+		{
+			"turn": 29,
+			"text": "And I got this idea watching them go down.  Everything was being destroyed see, but it seemed to me that there was one new thing that was made",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				29,
+				28
+			]
+		},
+		{
+			"turn": 30,
+			"text": "a sort of responsibility man for man.  You understand me?",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				29,
+				28
+			]
+		},
+		{
+			"turn": 31,
+			"text": "And then I came home and it was amazing.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				31
+			]
+		},
+		{
+			"turn": 32,
+			"text": "I felt, what you said, ashamed somehow",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				32
+			]
+		},
+		{
+			"turn": 33,
+			"text": "because nobody was changed at all.  It seemed to make suckers out of a lot of guys.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				32,
+				33
+			]
+		},
+		{
+			"turn": 34,
+			"text": "I felt wrong to be alive, to open the new bank book, to drive the new car, to see the new refrigerator.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				34
+			]
+		},
+		{
+			"turn": 35,
+			"text": "when you drive the new car, you have to know that it came out of the love a man can have for a man.  You've got to be a little better because of that.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				34
+			]
+		},
+		{
+			"turn": 36,
+			"text": "Otherwise what you have is really just loot and there's blood on it.  I didn't want to take any of it.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				36,
+				35,
+				34
+			]
+		},
+		{
+			"turn": 37,
+			"text": "I guess that included you.",
+			"speaker": "M",
+			"emotion": 1,
+			"cause": [
+				36,
+				35
+			]
+		},
+		{
+			"turn": 38,
+			"text": "Annie, Annie I'm going to make a fortune for you.",
+			"speaker": "M",
+			"emotion": 2,
+			"cause": [
+				38
+			]
+		},
+		{
+			"turn": 39,
+			"text": "What'll I do with a fortune?",
+			"speaker": "F",
+			"emotion": 2,
+			"cause": [
+				38
+			]
+		}
+	]
+]
